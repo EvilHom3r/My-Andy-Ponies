@@ -1,0 +1,48 @@
+IMPORTANT: You should uninstall My Reddit Ponies and Reddit - My ReddEnt Ponies before installing this!
+
+----------
+
+FAQ and stuff: http://redd.it/od4lt
+
+Receive update notifications: http://www.reddit.com/r/Hom3rUpdates/
+
+For a list of emotes this style enables, see: http://jbrony.nfshost.com/superemotetool/
+
+----------
+
+Be sure to check for updates often.
+
+Please report any problems or missing emotes/subreddits to http://www.reddit.com/message/compose/?to=EvilHom3r
+
+*Current Version: 3.6 (Mar 2)*
+
+Changelog:
+
+3.6 (Mar 2)
++ Added /r/TwilightSparkle (/tsXX)
++ Added /r/ainbowdash (Changed /rdXX to /dashXX)
++ Added /r/MyLittleWarHammer (/mlwh01 /heresy)
++ Updated MLAS1 (/scootacake alias for /scootanoms)
++ Updated MLAS1 Animotes (/fswb)
++ Updated /r/TheBestPony (/bpani 06 16 26, /emufun, bpg table)
+
+For previous version's changelogs, see: http://dl.dropbox.com/u/4289796/mapchangelog.txt
+----------
+
+Also includes these codes to rotate, flip, and spin emotes. Spinning emotes require at least Firefox 10 or Chrome 12. You can combine these flags to create some interesting effects.
+
+See a live demonstration here!
+
+-[45|90|135|180|225|270|315] = rotates image accordingly
+
+-r = Reverses images on the X axis (horizontally).
+
+-d = Dance for me (flip on hover).
+
+-spin = It spins!
+
+-yspin = Spin on the Y axis (vertically).
+
+-xspin = Spin on the X axis (horizontally).
+
+-zspin = Spin in a circle. 
