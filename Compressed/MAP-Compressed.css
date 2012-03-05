@@ -1,10 +1,7 @@
 /* Version 3.7 (Mar 5) */
 /* Please report any problems or missing emotes/subreddits to http://www.reddit.com/message/compose/?to=EvilHom3r */
-
 @namespace url(http://www.w3.org/1999/xhtml);
-
 @-moz-document url-prefix("http://www.reddit.com"), url-prefix("https://www.reddit.com") {
-/*== /r/mlas1 ==*/
 a[href|="/today"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px;background-position:0 0}
 a[href|="/hoppy"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/yncP92ucLKCxJ1t_.png);width:105px;height:157px;background-position:0 0}
 a[href|="/imamakethisanemoterealquick"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px;background-position:0 0}
@@ -40,7 +37,7 @@ a[href|="/shyfun"]{width:238px;height:171px;background-position:0 -156px;}
 a[href|="/tiara"]{width:98px;height:131px;background-position:-156px -2149px;}
 a[href|="/trixfun"]{width:230px;height:156px;background-position:0 -795px;}
 a[href|="/twifun"]{width:234px;height:156px;background-position:0 -483px;}
-a[href|="/ajhay"],a[href|="/cheesemoo"],a[href|="/dcute"],a[href|="/emperorgummy"],a[href|="/fscute"],a[href|="/moongusta"],a[href|="/ppohyou"],a[href|="/raricute"],a[href|="/rdcute"],a[href|="/surcookie"],a[href|="/twibook"],a[href|="/twinuzzle"],a[href|="/v00"],a[href|="/v01"],a[href|="/v02"],a[href|="/v03"],a[href|="/v10"],a[href|="/v11"],a[href|="/v12"],a[href|="/v13"],a[href|="/v20"],a[href|="/v21"],a[href|="/v22"],a[href|="/v23"],a[href|="/v30"],a[href|="/v31"],a[href|="/v32"],a[href|="/v33"],a[href|="/v40"],a[href|="/v41"],a[href|="/v42"],a[href|="/v43"],a[href|="/yes"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/5rLG0_5X6sj5D_0J.png);}
+a[href|="/ajhay"],a[href|="/cheesemoo"],a[href|="/dcute"],a[href|="/emperorgummy"],a[href|="/fscute"],a[href|="/moongusta"],a[href|="/ppohyou"],a[href|="/raricute"],a[href|="/rdcute"],a[href|="/surcookie"],a[href|="/twibook"],a[href|="/twinuzzle"],a[href|="/v00"],a[href|="/v01"],a[href|="/v02"],a[href|="/v03"],a[href|="/v10"],a[href|="/v11"],a[href|="/v12"],a[href|="/v13"],a[href|="/v20"],a[href|="/v21"],a[href|="/v22"],a[href|="/v23"],a[href|="/v30"],a[href|="/v31"],a[href|="/v32"],a[href|="/v33"],a[href|="/v40"],a[href|="/v41"],a[href|="/v42"],a[href|="/v43"],a[href|="/yes"],a[href|="/moreyay"],a[href|="/moreyes"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/5rLG0_5X6sj5D_0J.png);}
 a[href|="/ajhay"]{width:90px;height:101px;background-position:0 0;}
 a[href|="/cheesemoo"]{width:117px;height:106px;background-position:-90px 0;}
 a[href|="/dcute"]{width:79px;height:81px;background-position:-207px 0;}
@@ -73,7 +70,7 @@ a[href|="/v40"]{width:76px;height:76px;background-position:-228px -720px;}
 a[href|="/v41"]{width:76px;height:76px;background-position:-304px -720px;}
 a[href|="/v42"]{width:76px;height:76px;background-position:-380px -720px;}
 a[href|="/v43"]{width:76px;height:76px;background-position:0 -796px;}
-a[href|="/yes"]{width:227px;height:206px;background-position:-76px -796px;}
+a[href|="/yes"],a[href|="/moreyay"],a[href|="/moreyes"]{width:227px;height:206px;background-position:-76px -796px;}
 a[href|="/w00"],a[href|="/w01"],a[href|="/w02"],a[href|="/w03"],a[href|="/w04"],a[href|="/w10"],a[href|="/w11"],a[href|="/w12"],a[href|="/w13"],a[href|="/w14"],a[href|="/w20"],a[href|="/w21"],a[href|="/w22"],a[href|="/w23"],a[href|="/w24"],a[href|="/w30"],a[href|="/w31"],a[href|="/w32"],a[href|="/w33"],a[href|="/w34"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/OzFGrVr8L42IWJqo.png);}
 a[href|="/grumpydash"],a[href|="/grumpyjack"],a[href|="/ww00"],a[href|="/ww01"],a[href|="/ww02"],a[href|="/ww10"],a[href|="/ww11"],a[href|="/ww20"],a[href|="/ww21"],a[href|="/ww30"],a[href|="/ww31"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/_PZwK0-hyu1s_xjJ.png);}
 a[href|="/ww00"]{width:72px;height:81px;background-position:-150px 0;}
@@ -276,14 +273,14 @@ a[href|="/surnope"]{width:195px;height:256px;background-position:-206px -622px;}
 a[href|="/twirobe"]{width:172px;height:156px;background-position:0 -706px;}
 a[href|="/vsguitar"]{width:101px;height:156px;background-position:-302px -1115px;}
 a[href|="/yourhorn"]{width:206px;height:120px;background-position:0 -586px;}
-a[href|="/ajcute"],a[href|="/ajsmile"],a[href|="/ajsmug"],a[href|="/bonbonlyra"],a[href|="/bonbonlyra2"],a[href|="/cake"],a[href|="/carrotfun"],a[href|="/carrottopfun"],a[href|="/cerealpie"],a[href|="/ch35"],a[href|="/chnuzzle"],a[href|="/crossfire"],a[href|="/dashwithit"],a[href|="/dramaqueen"],a[href|="/eng"],a[href|="/flunam"],a[href|="/flutterdash"],a[href|="/gummy"],a[href|="/heavy"],a[href|="/lunam"],a[href|="/lush"],a[href|="/lyou"],a[href|="/pinkwithit"],a[href|="/ppfly"],a[href|="/ppforever"],a[href|="/ppfrown"],a[href|="/ppmoney"],a[href|="/ppstache"],a[href|="/pptoot"],a[href|="/rcerealpie"],a[href|="/rdsax"],a[href|="/rdwhat"],a[href|="/twiflip"],a[href|="/twitrix"],a[href|="/w40"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/mZI9kzkJb1Ob6aX9.png);}
+a[href|="/ajcute"],a[href|="/ajsmile"],a[href|="/ajsmug"],a[href|="/bonbonlyra"],a[href|="/bonbonlyra2"],a[href|="/cake"],a[href|="/carrotfun"],a[href|="/carrottopfun"],a[href|="/cerealpie"],a[href|="/ch35"],a[href|="/chnuzzle"],a[href|="/crossfire"],a[href|="/rcrossfire"],a[href|="/dashwithit"],a[href|="/dramaqueen"],a[href|="/eng"],a[href|="/flunam"],a[href|="/flutterdash"],a[href|="/gummy"],a[href|="/heavy"],a[href|="/lunam"],a[href|="/lush"],a[href|="/lyou"],a[href|="/pinkwithit"],a[href|="/ppfly"],a[href|="/ppforever"],a[href|="/ppfrown"],a[href|="/ppmoney"],a[href|="/ppstache"],a[href|="/pptoot"],a[href|="/rcerealpie"],a[href|="/rdsax"],a[href|="/rdwhat"],a[href|="/twiflip"],a[href|="/twitrix"],a[href|="/w40"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/mZI9kzkJb1Ob6aX9.png);}
 a[href|="/ajcute"]{width:91px;height:81px;background-position:-171px -637px;}
 a[href|="/ajsmile"]{width:83px;height:121px;background-position:-429px -632px;}
 a[href|="/ajsmug"]{width:125px;height:155px;background-position:-214px -888px;}
 a[href|="/bonbonlyra"]{width:126px;height:109px;background-position:0 -870px;}
 a[href|="/bonbonlyra2"]{width:116px;height:122px;background-position:-117px -1043px;}
 a[href|="/cake"]{width:107px;height:131px;background-position:-339px -1086px;}
-a[href|="/crossfire"]{width:186px;height:131px;background-position:-265px -501px;}
+a[href|="/crossfire"],a[href|="/rcrossfire"]{width:186px;height:131px;background-position:-265px -501px;}
 a[href|="/dashwithit"]{width:269px;height:269px;background-position:0 0;}
 a[href|="/dramaqueen"]{width:152px;height:105px;background-position:0 -765px;}
 a[href|="/eng"]{width:46px;height:76px;background-position:-451px -501px;}
@@ -489,7 +486,7 @@ a[href|="/clop43"]{width:63px;height:73px;background-position:-303px -236px}
 a[href|="/clop44"]{width:64px;height:66px;background-position:-306px -314px}
 a[href|="/clop45"],a[href|="/sur26"]{width:70px;height:75px;background-position:-3px -382px}
 a[href|="/clop46"],a[href|="/rsur26"]{width:70px;height:75px;background-position:-80px -382px}
-/*== /r/mlwtf ==*/
+
 a[href|="/zoidberg"],a[href|="/rzoidberg"],a[href|="/grinaloo"],a[href|="/stretch"],a[href|="/dosh"],a[href|="/boxedluna"],a[href|="/surreally"],a[href|="/1a"],a[href|="/1b"],a[href|="/rlush"],a[href|="/1c"],a[href|="/1d"],a[href|="/1e"],a[href|="/335"],a[href|="/1f"],a[href|="/1g"],a[href|="/1i"],a[href|="/1j"],a[href|="/ioi"],a[href|="/1h"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/rh8zOcmYfZ38Hasb.png)}
 a[href|="/zoidberg"]{width:70px;height:69px;background-position:-139px -630px}
 a[href|="/rzoidberg"]{width:70px;height:69px;background-position:-139px -700px}
@@ -725,7 +722,7 @@ a[href|="/ootdluna"]{width:127px;height:155px;background-position:-177px -154px}
 a[href|="/rareew"]{width:127px;height:150px;background-position:-328px -2px}
 a[href|="/rppsalute"]{width:173px;height:150px;background-position:-2px -154px}
 a[href|="/sparkwat"]{width:90px;height:100px;background-position:-125px -2px}
-/*== /r/pinkiepie ==*/
+
 a[href|="/pp:3"],a[href|="/ppboogie"],a[href|="/ppcake"],a[href|="/ppcannon"],a[href|="/ppcantlook"],a[href|="/ppdoublefacehoof"],a[href|="/ppcrazed"],a[href|="/ppdevious"],a[href|="/ppgasp"],a[href|="/ppglare"],a[href|="/pplie"],a[href|="/ppmina"],a[href|="/ppnervous"],a[href|="/ppoh"],a[href|="/ppoops"],a[href|="/ppparty"],a[href|="/ppserious"],a[href|="/ppsmile"],a[href|="/ppsoar"],a[href|="/ppthismuch"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/1T_lhKkJI4gIEnLn.png)}
 a[href|="/pp:3"]{width:158px;height:150px;background-position:-2px -2px}
 a[href|="/ppboogie"]{width:132px;height:160px;background-position:-162px -2px}
@@ -757,7 +754,7 @@ a[href|="/ppsing"]{width:102px;height:160px;background-position:-2px -356px}
 a[href|="/ppsteamingmad"]{width:351px;height:200px;background-position:-106px -356px}
 a[href|="/ppstrut"]{width:149px;height:150px;background-position:-2px -558px}
 a[href|="/ppwhy"]{width:103px;height:125px;background-position:-153px -558px}
-/*== /r/surprise ==*/
+
 a[href|="/sur00"],a[href|="/sur01"],a[href|="/sur02"],a[href|="/sur03"],a[href|="/sur04"],a[href|="/sur05"],a[href|="/sur06"],a[href|="/sur07"],a[href|="/sur10"],a[href|="/sur11"],a[href|="/sur11"],a[href|="/sur12"],a[href|="/sur13"],a[href|="/sur14"],a[href|="/sur15"],a[href|="/sur16"],a[href|="/sur17"],a[href|="/sur20"],a[href|="/sur21"],a[href|="/sur22"],a[href|="/sur23"],a[href|="/sur24"],a[href|="/sur25"],a[href|="/thatsnothowyouspellsurprise"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/LQ3RkNWUdl2cxe44.png)}
 a[href|="/sur00"]{width:70px;height:70px;background-position:-2px -2px}
 a[href|="/sur01"]{width:70px;height:70px;background-position:-74px -2px}
@@ -806,7 +803,7 @@ a[href|='/surtoot'] {width:164px; height:150px; background-position: -617px -277
 a[href|='/surumad'] {width:250px; height:182px; background-position: -271px -2px}
 a[href|='/surwat'] {width:144px; height:150px; background-position: -120px -435px}
 a[href|='/surwhatisaid'] {width:175px; height:175px; background-position: -523px -2px}
-/*== /r/mylittlemusician ==*/
+
 a[href|="/scratchshrug"],a[href|="/tavishrug"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/lCi267EgdCSOFW_q.png)}
 a[href|="/scratchshrug"]{background-position:0 0}
 a[href|="/tavishrug"]{background-position:-70px 70px}
@@ -823,7 +820,7 @@ a[href|="/mlyra"]{background-position:-70px 70px}
 a[href|="/cosbeh"],a[href|="/cockathingy"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/UNS72hB3BjWO9y3L.png)}
 a[href|="/cosbeh"]{background-position:0 0}
 a[href|="/cockathingy"]{background-position:-70px 70px}
-/*== /r/mylittlelistentothis ==*/
+
 a[href|="/flutterwonder"],a[href|="/system"],a[href|="/classyspitfire"],a[href|="/flimflamwoo"],a[href|="/discordcool"],a[href|="/rarityumm"],a[href|="/pokerlee"],a[href|="/dropdabass"],a[href|="/discordsing"]{background-image:url(http://d.thumbs.redditmedia.com/TQaIR5A4nf2QKn6o.png);clear:none;display:block;float:left;height:90px;width:90px}
 a[href|="/flutterwonder"]{background-position:0 0}
 a[href|="/system"]{background-position:-91px 0}
@@ -850,7 +847,6 @@ a[href|="/scratchpride"]{background-position:-182px -273px;}
 a[href|="/spitfireum"]{background-position:0 -364px;}
 a[href|="/twielaine"]{background-position:-91px -364px;}
 a[href|="/twigrin"]{background-position:-182px -364px;}
-/*== /r/mylittledaww ==*/
 a[href="/daa00"]{display:block;clear:none;float:left;width:128px;height:128px;background-image:url(http://a.thumbs.redditmedia.com/bHZlSLlnoVYAtB_B.png)}
 a[href="/da00"]{background-position:0 0}
 a[href="/da00"],a[href="/da01"],a[href="/da02"],a[href="/da03"],a[href="/da10"],a[href="/da11"],a[href="/da12"],a[href="/da13"],a[href="/da20"],a[href="/da21"],a[href="/da22"],a[href="/da23"],a[href="/squee"],a[href="/twihug"],a[href="/rarityhi"],a[href="/hugs"],a[href="/scoots"],a[href="/spike"],a[href="/sadpinkie"],a[href="/gummy"],a[href="/da15"],a[href="/woonajuice"],a[href="/tia"],a[href="/fillyshy"],a[href="/brushie"],a[href="/daww"],a[href="/da04"],a[href="/xlr8ter"],a[href="/xl"],a[href="/da05"],a[href="/flutterjuice"],a[href="/da14"],a[href="/shark7996"],a[href="/sharkie"],a[href="/da24"],a[href="/twilight_sprinkle"],a[href="/sprinkles"],a[href="/da16"],a[href="/sharkwell"],a[href="/da25"],a[href="/flutters"],a[href="/da06"],a[href="/uhhh"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/c64SGM765rim84hN.png)}
@@ -875,7 +871,6 @@ a[href="/da22"],a[href="/rda22"],a[href="/brushie"],a[href="/rbrushie"]{backgrou
 a[href="/da23"],a[href="/rda23"],a[href="/daww"],a[href="/rdaww"]{background-position:-140px -210px}
 a[href="/da24"],a[href="/rda24"],a[href="/twilight_sprinkle"],a[href="/rtwilight_sprinkle"],a[href="/sprinkles"],a[href="/rsprinkles"]{background-position:-140px -280px}
 a[href="/da25"],a[href="/rda25"],a[href="/flutters"],a[href="/rflutters"]{background-position:-140px -350px}
-/*== /r/mylittlealchoholic ==*/
 a[href|="/bp00"],a[href|="/bp10"],a[href|="/bp20"],a[href|="/bp01"],a[href|="/bp11"],a[href|="/bp21"],a[href|="/bp02"],a[href|="/bp12"],a[href|="/bpwhy"],a[href|="/bpwet"],a[href|="/bpdrunk"],a[href|="/bpmotherofgod"],a[href|="/bphungover"],a[href|="/bpgross"],a[href|="/bptear"],a[href|="/bphappy"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/AZ2LAwzYt1J7VZvt.png)}
 a[href|="/bp00"],a[href|="/bpwhy"]{background-position:0 0}
 a[href|="/bp01"],a[href|="/bpmotherofgod"]{background-position:0 -70px}
@@ -885,7 +880,6 @@ a[href|="/bp11"],a[href|="/bphungover"]{background-position:-70px -70px}
 a[href|="/bp12"],a[href|="/bphappy"]{background-position:-70px -140px}
 a[href|="/bp20"],a[href|="/bpdrunk"]{background-position:-140px 0}
 a[href|="/bp21"],a[href|="/bpgross"]{background-position:-140px -70px}
-/*== /r/mylittlesquidward ==*/
 a[href|="/sq00"],a[href|="/sq01"],a[href|="/sq02"],a[href|="/sq10"],a[href|="/sq11"],a[href|="/sq12"],a[href|="/sq20"],a[href|="/sq21"],a[href|="/sq22"],a[href|="/sq03"],a[href|="/squidamena"],a[href|="/sq13"],a[href|="/squidaloo"],a[href|="/squiddity"],a[href|="/sq23"],a[href|="/davenport"],a[href|="/ujelly"],a[href|="/squidohyou"],a[href|="/squidew"],a[href|="/sq01"],a[href|="/squidrage"],a[href|="/squidhoof"],a[href|="/squidshrug"],a[href|="/ceilingsquid"],a[href|="/squintysquid"],a[href|="/gummythesnail"],a[href|="/squidflip"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/zRHPg6sxlgcqEUQN.png)}
 a[href|="/sq00"],a[href|="/squidew"]{width:70px;height:70px;background-position:-128px -74px}
 a[href|="/sq01"],a[href|="/squidrage"]{width:70px;height:70px;background-position:-2px -146px}
@@ -901,7 +895,6 @@ a[href|="/sq22"],a[href|="/squidflip"]{width:70px;height:70px;background-positio
 a[href|="/sq23"],a[href|="/squiddity"]{width:70px;height:70px;background-position:-2px -74px}
 a[href|="/davenport"]{width:70px;height:70px;background-position:-2px -2px}
 a[href|="/ujelly"]{width:70px;height:70px;background-position:-74px -290px}
-/*== /r/daylightemotes ==*/
 a[href|="/darklerage"],a[href|="/darklefacehoof"]{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://f.thumbs.redditmedia.com/7YZVem6weUXtdzfM.png)}
 a[href|="/rdarklerage"],a[href|="/rdarklefacehoof"]{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://d.thumbs.redditmedia.com/RBG-mt6jhvawJ-WW.png)}
 a[href|="/darklerage"],a[href|="/rdarklerage"]{background-position:-100px -450px}
@@ -945,7 +938,6 @@ a[href|="/darklewhy"]{display:block;clear:none;float:left;width:185px;height:150
 a[href="/?darkle?"],a[href="/<3darkle<3"],a[href="/darkletines"]{display:block;clear:none;float:left;width:100px;height:85px;background-image:url(http://d.thumbs.redditmedia.com/nWmDa2kY7hKLHNr-.png);background-position:0 0}
 a[href|="/discordyes"]{display:block;clear:none;float:left;width:200px;height:200px;background-image:url(http://e.thumbs.redditmedia.com/X5-jLiBIpV0R3Rwp.png);background-position:0 0}
 a[href|="/cottoncandy"]{display:block;clear:none;float:left;width:150px;height:83px;background-image:url(http://d.thumbs.redditmedia.com/ccYKKYs6rkQN7-RQ.png);background-position:0 0}
-/*== /r/mylittlenanners ==*/
 a[href|="//#bneodestiny"]{width:300px !important;height:250px !important;cursor:default !important;display:inline-block !important;background-image:url(http://f.thumbs.redditmedia.com/LQSmvmb4YnK7tNu5.png) !important;background-repeat:no-repeat !important;background-position:0 0 !important;text-align:center !important;color:#FFF !important;font-family:Impact, sans-serif !important;text-shadow:1px 1px 1px black, -1px -1px 1px black, -1px 1px 1px black, 1px -1px 1px #000 !important;overflow:hidden !important;position:relative !important;text-transform:uppercase !important}
 a[href|="//#bneodestiny"] em{font-style:normal !important;position:absolute !important;top:5px !important;width:250px !important;left:50% !important;margin-left:-125px !important;font-size:24px !important;line-height:24px !important;visibility:visible}
 a[href|="//#bneodestiny"] strong{font-family:Impact, sans-serif !important;font-style:normal !important;font-weight:400 !important;font-size:24px !important;line-height:24px !important;position:absolute !important;bottom:5px !important;width:250px !important;left:50% !important;margin-left:-125px !important;visibility:visible}
@@ -1226,7 +1218,6 @@ a[href|="/bst12"]{background-position:-70px -140px}
 a[href|="/bst20"]{background-position:-140px 0}
 a[href|="/bst21"]{background-position:-140px -70px}
 a[href|="/bjcakeday"]{display:block;clear:none;float:left;width:90px;height:100px;background-image:url(http://d.thumbs.redditmedia.com/fmYm_a2_vmhI0Ocu.png);background-position:0 0}
-/*== /r/vinylscratch ==*/
 a[href|="/vs01"],a[href|="/vs02"],a[href|="/vsderp"],a[href|="/vsdeal"],a[href|="/vs03"],a[href|="/vshey"],a[href|="/rvs03"],a[href|="/vs11"],a[href|="/vslying"],a[href|="/rvs11"],a[href|="/vs12"],a[href|="/vstear"],a[href|="/rvs12"],a[href|="/vs13"],a[href|="/vscurious"],a[href|="/rvs13"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/6IUb7mOhEqfbFO1i.png)}
 a[href|="/vs01"],a[href|="/vsdeal"] a[href|="/rvs01"]{background-position:0 0}
 a[href|="/vs02"],a[href|="/vsderp"],a[href|="/rvs02"]{background-position:-70px 0}
@@ -1253,7 +1244,6 @@ a[href="/vs06"],a[href="/vsomg"]{background-position:70px -70px;}
 a[href="/vs16"],a[href="/vsoooo"]{background-position:210px -140px;}
 a[href="/vs26"],a[href="/vsnope"]{background-position:140px -140px;}
 a[href="/vs07"],a[href="/vsmog"]{background-position:70px -140px;}
-/*== /r/applejack ==*/
 a[href|="/aj00"],a[href|="/aj01"],a[href|="/aj02"],a[href|="/aj03"],a[href|="/aj04"],a[href|="/aj05"],a[href|="/aj06"],a[href|="/aj07"],a[href|="/aj08"],a[href|="/aj09"],a[href|="/aj10"],a[href|="/aj11"],a[href|="/aj12"],a[href|="/aj13"],a[href|="/aj14"],a[href|="/aj15"],a[href|="/aj16"],a[href|="/aj17"],a[href|="/aj18"],a[href|="/aj19"],a[href|="/aj20"],a[href|="/aj21"],a[href|="/aj22"],a[href|="/aj23"],a[href|="/aj24"],a[href|="/aj25"],a[href|="/aj26"],a[href|="/aj27"],a[href|="/aj28"],a[href|="/aj29"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/prBanSboIDJDeXcE.png)}
 a[href|="/aj00"]{background-position:0 0}
 a[href|="/aj01"]{background-position:0 -70px}
@@ -1285,7 +1275,6 @@ a[href|="/aj26"]{background-position:-140px -420px}
 a[href|="/aj27"]{background-position:-140px -490px}
 a[href|="/aj28"]{background-position:-140px -560px}
 a[href|="/aj29"]{background-position:-140px -630px}
-/*== /r/mylittleonions ==*/
 a[href|="/bestpony"]{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://thumbs.reddit.com/t5_2t0fc_7.png)}
 a[href|="/lunasmile"]{display:block;clear:none;float:left;width:80px;height:80px;background-image:url(http://thumbs.reddit.com/t5_2t0fc_6.png)}
 a[href|="/o00"],a[href|="/o01"],a[href|="/o02"],a[href|="/o10"],a[href|="/o11"],a[href|="/o12"],a[href|="/o20"],a[href|="/o21"],a[href|="/o22"],a[href|="/o30"],a[href|="/pinkasad"],a[href|="/sadderpy"],a[href|="/sadflutter"],a[href|="/sadrarity"],a[href|="/sadwhooves"],a[href|="/sadtwilight"],a[href|="/saddash"],a[href|="/sadlyra"],a[href|="/sadtwilight2"],a[href|="/wobblederp"]{display:block;clear:none;float:left;width:80px;height:80px;background-image:url(http://e.thumbs.redditmedia.com/UgMxrXOPXOHMUTtR.png)}
@@ -1299,7 +1288,6 @@ a[href|="/o20"],a[href|="/saddash"]{background-position:0 -160px}
 a[href|="/o21"],a[href|="/sadlyra"]{background-position:-80px -160px}
 a[href|="/o22"],a[href|="/sadtwilight2"]{background-position:-160px -160px}
 a[href|="/o30"],a[href|="/wobblederp"]{background-position:0 -240px}
-/*== /r/mylittlenosleep ==*/
 a[href|="/ns00"],a[href|="/ns01"],a[href|="/ns02"],a[href|="/ns03"],a[href|="/ns04"],a[href|="/ns05"],a[href|="/ns06"],a[href|="/ns10"],a[href|="/ns11"],a[href|="/ns12"],a[href|="/ns13"],a[href|="/ns14"],a[href|="/ns15"],a[href|="/ns16"],a[href|="/ns20"],a[href|="/ns21"],a[href|="/ns22"],a[href|="/ns23"],a[href|="/ns24"],a[href|="/ns25"],a[href|="/ns26"],a[href|="/rns00"],a[href|="/rns01"],a[href|="/rns02"],a[href|="/rns03"],a[href|="/rns04"],a[href|="/rns05"],a[href|="/rns06"],a[href|="/rns10"],a[href|="/rns11"],a[href|="/rns12"],a[href|="/rns13"],a[href|="/rns14"],a[href|="/rns15"],a[href|="/rns16"],a[href|="/rns20"],a[href|="/rns21"],a[href|="/rns22"],a[href|="/rns23"],a[href|="/rns24"],a[href|="/rns25"],a[href|="/rns26"]{display:block;clear:none;float:left;background-image:url(http://a.thumbs.redditmedia.com/gM1NhMNNh-k6937l.png)}
 a[href|="/ns00"]{width:74px;height:75px;background-position:-2px -2px}
 a[href|="/ns01"]{width:79px;height:75px;background-position:-78px -2px}
@@ -1343,7 +1331,6 @@ a[href|="/rns23"]{width:77px;height:75px;background-position:-167px -464px}
 a[href|="/rns24"]{width:83px;height:75px;background-position:-246px -464px}
 a[href|="/rns25"]{width:86px;height:75px;background-position:-331px -464px}
 a[href|="/rns26"]{width:74px;height:75px;background-position:-419px -464px}
-/*== /r/mylittlenopenopenope ==*/
 a[href|="/flutterspider"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/lxmNhqsnudJLBYDL.png);width:300px;height:281px;background-position:0 0}
 a[href|="/twilightspider"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/lxmNhqsnudJLBYDL.png);width:300px;height:208px;background-position:0 -282px}
 a[href|="/rainbowspider"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/lxmNhqsnudJLBYDL.png);width:300px;height:356px;background-position:0 -491px}
@@ -1351,7 +1338,6 @@ a[href|="/spiderty"]{display:block;clear:none;float:left;background-image:url(ht
 a[href|="/applespider"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/lxmNhqsnudJLBYDL.png);width:300px;height:290px;background-position:0 -1068px}
 a[href|="/spiderpie"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/lxmNhqsnudJLBYDL.png);width:300px;height:433px;background-position:0 -1359px}
 a[href|="/spikegnat"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/NfJ293E5qIYW9gOQ.png);width:166px;height:224px;background-position:0 0}
-/*== mylittlelivestream ==*/
 a[href|="/berryparty"],a[href|="/blegh"]{display:block;clear:none;float:left;width:128px;height:128px;background-image:url(http://f.thumbs.redditmedia.com/n1wsBfils5_W9z0A.png)}
 a[href|="/rberryparty"],a[href|="/rblegh"]{display:block;clear:none;float:left;width:128px;height:128px;background-image:url(http://d.thumbs.redditmedia.com/BUvGInlcAARhMphW.png)}
 a[href|="/ajplot"],a[href|="/plotdance"],a[href|="/exquisite"],a[href|="/fancydance"],a[href|="/lunawant"],a[href|="/whytwi"],a[href|="/whytwiwhy"],a[href|="/vygrab"],a[href|="/bassdrop"],a[href|="/a123"],a[href|="/twiplot"],a[href|="/plottwirl"],a[href|="/clickyclicky"],a[href|="/vyhug"],a[href|="/iscc"],a[href|="/twiannoyed"],a[href|="/vyplot"],a[href|="/plotspin"],a[href|="/raritysnub"],a[href|="/ajsketch"],a[href|="/taviplot"],a[href|="/plotpirouette"],a[href|="/tavyblobs"],a[href|="/twinkle"],a[href|="/twinkledance"],a[href|="/rarityplot"],a[href|="/plotwhirl"],a[href|="/hotrod"],a[href|="/abwant"],a[href|="/berrynotwant"],a[href|="/tavihugs"],a[href|="/howaboutyou"],a[href|="/twiscare"],a[href|="/pillzhere"],a[href|="/datplot"]{display:block;clear:none;float:left;width:128px;height:128px;background-image:url(http://f.thumbs.redditmedia.com/n1wsBfils5_W9z0A.png)}
@@ -1385,7 +1371,6 @@ a[href|="/howaboutyou"],a[href|="/rhowaboutyou"]{background-position:-640px -256
 a[href|="/twiscare"],a[href|="/rtwiscare"]{background-position:-640px -384px}
 a[href|="/pillzhere"],a[href|="/rpillzhere"]{background-position:-768px 0}
 a[href|="/datplot"],a[href|="/rdatplot"]{background-position:-768px -128px}
-/*== /r/mlas1animotes ==*/
 a[href|="/twiflap"],a[href|="/twitwitch"],a[href|="/ppexcited"],a[href|="/andyisanasshat"],a[href|="/ajchew"],a[href|="/twiexcited"],,a[href|="/twilightsparkle"],a[href|="/raritwitch"],a[href|="/pphugs"],a[href|="/spikewoo"],a[href|="/derpydance"],a[href|="/rimshot"],a[href|="/twirun"],a[href|="/lickiepie"],a[href|="/derpslide"],a[href|="/pomf"],a[href|="/twiderp"],a[href|="/giggle"],a[href|="/heyyeah"],a[href|="/pptwitcha"],a[href|="/fswb"],a[href|="/twipeck"],a[href|="/lbspin"],a[href|="/ajready"]{display:block;clear:none;float:left;margin-left:3px;margin-right:3px}
 a[href|="/twiflap"]{width:132px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/V6TdoeTKrFPSBjlL.png)}
 a[href|="/twitwitch"]{width:122px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/338-FevkfSq5Hn-d.png)}
@@ -1409,7 +1394,6 @@ a[href|="/fswb"]{width:300px;height:218px;background-image:url(http://d.thumbs.r
 a[href|="/twipeck"]{width:150px;height:150px;background-image:url(http://b.thumbs.redditmedia.com/RA9Zn-msZFd5ZeQs.png)}
 a[href|="/lbspin"]{width:150px;height:150px;background-image:url(http://b.thumbs.redditmedia.com/FQVAiaNq3kkczVEy.png)}
 a[href|="/ajready"]{width:118px;height:120px;background-image:url(http://e.thumbs.redditmedia.com/7AEmwnBz23hEWx9F.png)}
-/*== /r/mylittlebannertest ==*/
 a[href|="/blockjuice"]{display:block;clear:none;float:left;width:526px;height:380px;background-image:url(http://e.thumbs.redditmedia.com/hlrAgE8sTtVYdE8X.png)}
 a[href|="/ppohu"]{display:block;clear:none;float:left;width:150px;height:147px;background-image:url(http://b.thumbs.redditmedia.com/Pm3nkna3kZVhpZhs.png)}
 a[href|="/ppsong"]{display:block;clear:none;float:left;width:600px;height:600px;background-image:url(http://a.thumbs.redditmedia.com/hsj4owiuTkss42Kf.png)}
@@ -1436,7 +1420,6 @@ a[href|="/alt_text"]{color:gray !important;font-weight:400;cursor:text !importan
 a[href|="/upvote"]{display:block;clear:none;float:left;width:14px;height:15px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png);background-position:-32px -570px}
 a[href|="/downvote"]{display:block;clear:none;float:left;width:14px;height:15px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png);background-position:0 -570px}
 a[href|="/orangered"]{display:block;clear:none;float:left;width:15px;height:10px;background-image:url(http://b.thumbs.redditmedia.com/ckm8CrAbDaVtHTZI.png);background-position:-62px -570px}
-/*== /r/bestpony ==*/
 a[href|="/bpa00"],a[href|="/bpa01"],a[href|="/bpa02"],a[href|="/bpa03"],a[href|="/bpa04"],a[href|="/bpa05"],a[href|="/bpa06"],a[href|="/bpa07"],a[href|="/bpa08"],a[href|="/bpa09"],a[href|="/bpa10"],a[href|="/bpa11"],a[href|="/bpa12"],a[href|="/bpa13"],a[href|="/bpa14"],a[href|="/bpa15"],a[href|="/bpa16"],a[href|="/bpa17"],a[href|="/bpa18"],a[href|="/bpa19"],a[href|="/bpa20"],a[href|="/bpa21"],a[href|="/bpa22"],a[href|="/bpa23"],a[href|="/bpa24"],a[href|="/bpa25"],a[href|="/bpa26"],a[href|="/bpa27"],a[href|="/bpa28"],a[href|="/bpa29"],a[href|="/60fluts"],a[href|="/60jig"],a[href|="/60pose"],a[href|="/abouttobe"],a[href|="/ajeww"],a[href|="/ajyikes"],a[href|="/assault"],a[href|="/bestpony"],a[href|="/bfuck"],a[href|="/brokepps"],a[href|="/buzz"],a[href|="/ceilingpp"],a[href|="/crain"],a[href|="/crown"],a[href|="/derpplejack"],a[href|="/djfluts"],a[href|="/dotdotdot"],a[href|="/fssing"],a[href|="/fsslide"],a[href|="/kitty"],a[href|="/hmph"],a[href|="/partycannon"],a[href|="/pass"],a[href|="/peekaboo"],a[href|="/postponies"],a[href|="/ceilingrarity"],a[href|="/rdblush"],a[href|="/rdsing"],a[href|="/rarshock"],a[href|="/runway"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/W6iuVFmlZDWQlPPl.png)}
 a[href|="/rbpa00"],a[href|="/rbpa01"],a[href|="/rbpa02"],a[href|="/rbpa03"],a[href|="/rbpa04"],a[href|="/rbpa05"],a[href|="/rbpa06"],a[href|="/rbpa07"],a[href|="/rbpa08"],a[href|="/rbpa09"],a[href|="/rbpa10"],a[href|="/rbpa11"],a[href|="/rbpa12"],a[href|="/rbpa13"],a[href|="/rbpa14"],a[href|="/rbpa15"],a[href|="/rbpa16"],a[href|="/rbpa17"],a[href|="/rbpa18"],a[href|="/rbpa19"],a[href|="/rbpa20"],a[href|="/rbpa21"],a[href|="/rbpa22"],a[href|="/rbpa23"],a[href|="/rbpa24"],a[href|="/rbpa25"],a[href|="/rbpa26"],a[href|="/rbpa27"],a[href|="/rbpa28"],a[href|="/rbpa29"],a[href|="/r60fluts"],a[href|="/r60jig"],a[href|="/r60pose"],a[href|="/rabouttobe"],a[href|="/rajeww"],a[href|="/rajyikes"],a[href|="/rassault"],a[href|="/rbestpony"],a[href|="/rbfuck"],a[href|="/rbrokepps"],a[href|="/rbuzz"],a[href|="/rceilingpp"],a[href|="/rcrain"],a[href|="/rcrown"],a[href|="/rderpplejack"],a[href|="/rdjfluts"],a[href|="/rdotdotdot"],a[href|="/rfssing"],a[href|="/rfsslide"],a[href|="/rkitty"],a[href|="/rhmph"],a[href|="/rpartycannon"],a[href|="/rpass"],a[href|="/rpeekaboo"],a[href|="/rpostponies"],a[href|="/rceilingrarity"],a[href|="/rrdblush"],a[href|="/rrdsing"],a[href|="/rrarshock"],a[href|="/rrunway"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/QsANVinomecmKm7E.png)}
 a[href|="/bpa00"],a[href|="/60fluts"],a[href|="/rbpa00"],a[href|="/r60fluts"]{background-position:0 0}
@@ -1699,7 +1682,6 @@ a[href|="/bpani26"],a[href|="/lyragun"]{display:block;clear:none;float:left;widt
 a[href|="/emyscoot"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/tvslkPdmCatE2NO3.png);background-position:0 0}
 a[href|="/fspomf"]{display:block;clear:none;float:left;width:70px;height:50px;background-image:url(http://e.thumbs.redditmedia.com/0yYPV_jcYNEEjax4.png);background-position:0 0;}
 a[href|="/emufun"]{display:block;clear:none;float:left;width:363px;height:363px;background-image:url(http://b.thumbs.redditmedia.com/JKex-r-MTDUgN6K7.png);background-position:0 0;}
-/*== /r/mylittlecelestias ==*/
 a[href|="/celordv"]{display:block;clear:none;width:48px;height:63px;background-image:url(http://b.thumbs.redditmedia.com/-r4n0Otf1ft3TdOs.png)}
 a[href|="/rcelordv"]{display:block;clear:none;width:48px;height:63px;background-image:url(http://a.thumbs.redditmedia.com/TpF1dzsXGV8LVsHH.png)}
 a[href|="/lcelordv"]{display:block;clear:none;width:73px;height:96px;background-image:url(http://d.thumbs.redditmedia.com/tfJ7LHQfIXr9rRvQ.png)}
@@ -1747,7 +1729,6 @@ a[href|="/ce10"]{display:block;clear:none;width:48px;height:48px;background-imag
 a[href|="/rce10"]{display:block;clear:none;width:48px;height:48px;background-image:url(http://f.thumbs.redditmedia.com/LuY8j-i83WvHd5ES.png)}
 a[href|="/lce10"]{display:block;clear:none;width:96px;height:96px;background-image:url(http://e.thumbs.redditmedia.com/-tiIKLFc0Uw1YNMF.png)}
 a[href|="/lrce10"]{display:block;clear:none;width:96px;height:96px;background-image:url(http://c.thumbs.redditmedia.com/fzKWaCt_VIaaxdyn.png)}
-/*== /r/roseluck ==*/
 a[href|="/rose1"],a[href|="/rose2"],a[href|="/rose3"],a[href|="/rose4"],a[href|="/rose5"],a[href|="/rose6"],a[href|="/rose7"],a[href|="/rose8"],a[href|="/rose9"],a[href|="/rose10"],a[href|="/rose11"],a[href|="/rose12"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://b.thumbs.redditmedia.com/bc-peQTKSmQ6Ej3m.png)}
 a[href|="/rose1"]{background-position:0 0}
 a[href|="/rose2"]{background-position:-70px 0}
@@ -1761,9 +1742,7 @@ a[href|="/rose9"]{background-position:-140px -140px}
 a[href|="/rose10"]{background-position:0 -210px}
 a[href|="/rose11"]{background-position:-70px -210px}
 a[href|="/rose12"]{background-position:-140px -210px}
-/*== /r/??? ==*/
 a[href|="/mongusta"]{display:block;clear:none;float:left;height:150px;width:116px;background-image:url(http://f.thumbs.redditmedia.com/33PF7vnvWcc76Ofw.png)}
-/*== /r/??? ==*/
 a[href|="/rdblush"],a[href|="/rdroll"],a[href|="/rdexcite"],a[href|="/rdtrumpet"],a[href|="/rdsnuff"],a[href|="/rdwin"],a[href|="/rdready"],a[href|="/rdsit"],a[href|="/rdspy"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/Fabd_qkPBd7o6MU5.png)}
 a[href|="/rdblush"]{height:250px;width:200px;background-position:0 0}
 a[href|="/rdroll"]{height:250px;width:212px;background-position:-200px 0}
@@ -1810,7 +1789,6 @@ a[href|="/shy19"]{height:200px;width:212px;background-position:-196px -200px}
 a[href|="/shy20"]{height:200px;width:209px;background-position:-408px -200px}
 a[href|="/shy21"]{height:200px;width:312px;background-position:-617px -200px}
 a[href|="/shy22"]{height:200px;width:182px;background-position:-929px -200px}
-/*== /r/mlplounge ==*/
 a[href|="/amazingmagic"],a[href|="/karmastare"],a[href|="/dishappy"],a[href|="/fillyrarity"],a[href|="/karmasalute"],a[href|="/twidurr"],a[href|="/trixiedance"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/gKjlIAD4mIcIgDsc.png)}
 a[href|="/ramazingmagic"],a[href|="/rkarmastare"],a[href|="/rdishappy"],a[href|="/rfillyrarity"],a[href|="/rkarmasalute"],a[href|="/rtwidurr"],a:hover[href="/trixiedance"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/6Vu3PHmz0qvC8qcv.png)}
 a[href|="/amazingmagic"],a[href|="/ramazingmagic"],a[href|="/trixiedance"],a:hover[href="/trixiedance"]{background-position:0 0}
@@ -1819,7 +1797,6 @@ a[href|="/dishappy"],a[href|="/rdishappy"]{background-position:-140px 0}
 a[href|="/fillyrarity"],a[href|="/rfillyrarity"]{background-position:0 -70px}
 a[href|="/karmasalute"],a[href|="/rkarmasalute"]{background-position:-70px -70px}
 a[href|="/twidurr"],a[href|="/rtwidurr"]{background-position:-140px -70px}
-/*== /r/??? ==*/
 a[href|="/obama"],a[href|="/impossibru"],a[href|="/aliens"],a[href|="/keanu"],a[href|="/freddie"],a[href|="/cera"],a[href|="/wonka"],a[href|="/pennandteller"],a[href|="/gaben"],a[href|="/maverick"],a[href|="/clintonlie"],a[href|="/newman"],a[href|="/takei"],a[href|="/silverman"],a[href|="/jackiechan"],a[href|="/tyson"],a[href|="/picard"],a[href|="/colbert"],a[href|="/freeman"]{display:block;clear:none;float:left;background-image:url(http://a.thumbs.redditmedia.com/j0TEPf9Gz1PMjC36.png)}
 a[href|="/obama"]{background-position:0 0;width:120px;height:100px}
 a[href|="/impossibru"]{background-position:-120px 0;width:105px;height:100px}
@@ -1865,7 +1842,7 @@ a[href|="/campbell"]{background-position:0 -100px;width:150px;height:100px}
 a[href|="/tut"]{background-position:-150px -100px;width:75px;height:100px}
 a[href|="/alexander"]{background-position:-225px -100px;width:75px;height:100px}
 a[href|="/tesla"]{background-position:0 -200px;width:75px;height:100px}
-/*== /r/mylittledamon ==*/
+
 a[href|="/damoneyes"],a[href|="/damonflip"],a[href|="/damonfun"],a[href|="/damonnannersspiders"],a[href|="/damonplot"],a[href|="/damonsalute"],a[href|="/damonstop"],a[href|="/damonwithit"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/T1WNIh53sRcVlJhY.png)}
 a[href|="/damoneyes"]{width:168px;height:250px;background-position:-2px -2px}
 a[href|="/damonflip"]{width:253px;height:200px;background-position:-172px -2px}
@@ -1886,7 +1863,6 @@ a[href|="/rdamonstop"]{width:200px;height:190px;background-position:-550px -254p
 a[href|="/rdamonwithit"]{width:149px;height:200px;background-position:-752px -254px}
 a[href|="/damoncorn"]{width:250px;height:315px;background-image:url(http://a.thumbs.redditmedia.com/rGA4LAPcCkYCIsVB.png);display:block;clear:none;float:left;margin-left:3px;margin-right:3px}
 a[href|="/damonwhat"]{width:450px;height:320px;background-image:url(http://e.thumbs.redditmedia.com/t_2V13gM2jrZzu3R.png);display:block;clear:none;float:left;margin-left:3px;margin-right:3px}
-/*== /r/mlp ==*/
 a[href|="/b00"],a[href|="/b01"],a[href|="/b02"],a[href|="/b03"],a[href|="/b04"],a[href|="/b05"],a[href|="/b06"],a[href|="/b07"],a[href|="/b08"],a[href|="/b09"],a[href|="/b10"],a[href|="/b11"],a[href|="/b12"],a[href|="/b13"],a[href|="/b14"],a[href|="/b15"],a[href|="/b16"],a[href|="/b17"],a[href|="/b18"],a[href|="/b19"],a[href|="/b20"],a[href|="/b21"],a[href|="/b22"],a[href|="/b23"],a[href|="/b24"],a[href|="/b25"],a[href|="/b26"],a[href|="/b27"],a[href|="/b28"],a[href|="/b29"],a[href|="/b30"],a[href|="/b31"],a[href|="/b32"],a[href|="/b33"],a[href|="/b34"],a[href|="/b35"],a[href|="/b36"],a[href|="/b37"],a[href|="/b38"],a[href|="/b39"],a[href|="/flutterfear"],a[href|="/ajcower"],a[href|="/fluttersrs"],a[href|="/ppshrug"],a[href|="/fluttershh"],a[href|="/ajugh"],a[href|="/trixiesmug"],a[href|="/ajwut"],a[href|="/abwut"],a[href|="/rarityjudge"],a[href|="/ppboring"],a[href|="/ajsly"],a[href|="/raritydress"],a[href|="/spikenervous"],a[href|="/newrainbowdash"],a[href|="/flutteryay"],a[href|="/raritywut"],a[href|="/flutterwink"],a[href|="/twisquint"],a[href|="/manspike"],a[href|="/rarityprimp"],a[href|="/rarityyell"],a[href|="/eeyup"],a[href|="/takealetter"],a[href|="/noooo"],a[href|="/squintyjack"],a[href|="/dumbfabric"],a[href|="/rarityannoyed"],a[href|="/raritywhine"],a[href|="/cockatrice"],a[href|="/twirage"],a[href|="/fluttershy"],a[href|="/rdsmile"],a[href|="/rdwut"],a[href|="/dj"],a[href|="/threedog"],a[href|="/spikepushy"],a[href|="/raritywhy"],a[href|="/soawesome"],a[href|="/rdcool"],a[href|="/facehoof"],a[href|="/ppseesyou"]{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://e.thumbs.redditmedia.com/SdD3wwCBFtlQDVx4.png)}
 a[href|="/rb00"],a[href|="/rb01"],a[href|="/rb02"],a[href|="/rb03"],a[href|="/rb04"],a[href|="/rb05"],a[href|="/rb06"],a[href|="/rb07"],a[href|="/rb08"],a[href|="/rb09"],a[href|="/rb10"],a[href|="/rb11"],a[href|="/rb12"],a[href|="/rb13"],a[href|="/rb14"],a[href|="/rb15"],a[href|="/rb16"],a[href|="/rb17"],a[href|="/rb18"],a[href|="/rb19"],a[href|="/rb20"],a[href|="/rb21"],a[href|="/rb22"],a[href|="/rb23"],a[href|="/rb24"],a[href|="/rb25"],a[href|="/rb26"],a[href|="/rb27"],a[href|="/rb28"],a[href|="/rb29"],a[href|="/rb30"],a[href|="/rb31"],a[href|="/rb32"],a[href|="/rb33"],a[href|="/rb34"],a[href|="/rb35"],a[href|="/rb36"],a[href|="/rb37"],a[href|="/rb38"],a[href|="/rb39"],a[href|="/rflutterfear"],a[href|="/rajcower"],a[href|="/rfluttersrs"],a[href|="/rppshrug"],a[href|="/rfluttershh"],a[href|="/rajugh"],a[href|="/rtrixiesmug"],a[href|="/rajwut"],a[href|="/rabwut"],a[href|="/rrarityjudge"],a[href|="/rppboring"],a[href|="/rajsly"],a[href|="/rraritydress"],a[href|="/rspikenervous"],a[href|="/rnewrainbowdash"],a[href|="/rflutteryay"],a[href|="/rraritywut"],a[href|="/rflutterwink"],a[href|="/rtwisquint"],a[href|="/rmanspike"],a[href|="/rrarityprimp"],a[href|="/rrarityyell"],a[href|="/reeyup"],a[href|="/rtakealetter"],a[href|="/rnoooo"],a[href|="/rsquintyjack"],a[href|="/rdumbfabric"],a[href|="/rrarityannoyed"],a[href|="/rraritywhine"],a[href|="/rcockatrice"],a[href|="/rtwirage"],a[href|="/rfluttershy"],a[href|="/rrdsmile"],a[href|="/rrdwut"],a[href|="/rdj"],a[href|="/rthreedog"],a[href|="/rspikepushy"],a[href|="/rraritywhy"],a[href|="/rsoawesome"],a[href|="/rrdcool"],a[href|="/rfacehoof"],a[href|="/rppseesyou"]{display:block;clear:none;float:left;width:50px;height:50px;background-image:url(http://thumbs.reddit.com/t5_2s8bl_29.png)}
 a[href|="/b00"],a[href|="/rb00"],a[href|="/flutterfear"],a[href|="/rflutterfear"]{background-position:0 0}
@@ -1931,208 +1907,64 @@ a[href|="/b38"],a[href|="/rb38"],a[href|="/facehoof"],a[href|="/rfacehoof"]{back
 a[href|="/b39"],a[href|="/rb39"],a[href|="/ppseesyou"],a[href|="/rppseesyou"]{background-position:-150px -450px}
 a[href|="/c00"],a[href|="/c01"],a[href|="/c02"],a[href|="/c03"],a[href|="/c04"],a[href|="/c05"],a[href|="/c06"],a[href|="/c07"],a[href|="/c08"],a[href|="/c09"],a[href|="/c10"],a[href|="/c11"],a[href|="/c12"],a[href|="/c13"],a[href|="/c14"],a[href|="/c15"],a[href|="/c16"],a[href|="/c17"],a[href|="/c18"],a[href|="/c19"],a[href|="/c20"],a[href|="/c21"],a[href|="/c22"],a[href|="/c23"],a[href|="/c24"],a[href|="/c25"],a[href|="/c26"],a[href|="/c27"],a[href|="/c28"],a[href|="/c29"],a[href|="/rdsitting"],a[href|="/twismug"],a[href|="/ohhi"],a[href|="/flutterblush"],a[href|="/ajfrown"],a[href|="/raritysad"],a[href|="/louder"],a[href|="/pinkamina"],a[href|="/scootaloo"],a[href|="/allmybits"],a[href|="/rdhappy"],a[href|="/twismile"],a[href|="/party"],a[href|="/gross"],a[href|="/hmmm"],a[href|="/fabulous"],a[href|="/lunasad"],a[href|="/loveme"],a[href|="/celestia"],a[href|="/zecora"],a[href|="/rdannoyed"],a[href|="/twistare"],a[href|="/hahaha"],a[href|="/derpyhappy"],a[href|="/joy"],a[href|="/derp"],a[href|="/derpyshock"],a[href|="/lunagasp"],a[href|="/angel"],a[href|="/photofinish"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://thumbs.reddit.com/t5_2s8bl_9.png)}
 a[href|="/rc00"],a[href|="/rc01"],a[href|="/rc02"],a[href|="/rc03"],a[href|="/rc04"],a[href|="/rc05"],a[href|="/rc06"],a[href|="/rc07"],a[href|="/rc08"],a[href|="/rc09"],a[href|="/rc10"],a[href|="/rc11"],a[href|="/rc12"],a[href|="/rc13"],a[href|="/rc14"],a[href|="/rc15"],a[href|="/rc16"],a[href|="/rc17"],a[href|="/rc18"],a[href|="/rc19"],a[href|="/rc20"],a[href|="/rc21"],a[href|="/rc22"],a[href|="/rc23"],a[href|="/rc24"],a[href|="/rc25"],a[href|="/rc26"],a[href|="/rc27"],a[href|="/rc28"],a[href|="/rc29"],a[href|="/rrdsitting"],a[href|="/rtwismug"],a[href|="/rohhi"],a[href|="/rflutterblush"],a[href|="/rajfrown"],a[href|="/rraritysad"],a[href|="/rlouder"],a[href|="/rpinkamina"],a[href|="/rscootaloo"],a[href|="/rallmybits"],a[href|="/rrdhappy"],a[href|="/rtwismile"],a[href|="/rparty"],a[href|="/rgross"],a[href|="/rhmmm"],a[href|="/rfabulous"],a[href|="/rlunasad"],a[href|="/rloveme"],a[href|="/rcelestia"],a[href|="/rzecora"],a[href|="/rrdannoyed"],a[href|="/rtwistare"],a[href|="/rhahaha"],a[href|="/rderpyhappy"],a[href|="/rjoy"],a[href|="/rderp"],a[href|="/rderpyshock"],a[href|="/rlunagasp"],a[href|="/rangel"],a[href|="/rphotofinish"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://thumbs.reddit.com/t5_2s8bl_30.png)}
-a[href|="/c00"],a[href|="/rc00"],a[href|="/rdsitting"],a[href|="/rrdsitting"]{background-position:0 0}
-a[href|="/c01"],a[href|="/rc01"],a[href|="/twismug"],a[href|="/rtwismug"]{background-position:0 -70px}
-a[href|="/c02"],a[href|="/rc02"],a[href|="/ohhi"],a[href|="/rohhi"]{background-position:0 -140px}
-a[href|="/c03"],a[href|="/rc03"],a[href|="/flutterblush"],a[href|="/rflutterblush"]{background-position:0 -210px}
-a[href|="/c04"],a[href|="/rc04"],a[href|="/ajfrown"],a[href|="/rajfrown"]{background-position:0 -280px}
-a[href|="/c05"],a[href|="/rc05"],a[href|="/raritysad"],a[href|="/rraritysad"]{background-position:0 -350px}
-a[href|="/c06"],a[href|="/rc06"],a[href|="/louder"],a[href|="/rlouder"]{background-position:0 -420px}
-a[href|="/c07"],a[href|="/rc07"],a[href|="/pinkamina"],a[href|="/rpinkamina"]{background-position:0 -490px}
-a[href|="/c08"],a[href|="/rc08"],a[href|="/scootaloo"],a[href|="/rscootaloo"]{background-position:0 -560px}
-a[href|="/c09"],a[href|="/rc09"],a[href|="/allmybits"],a[href|="/rallmybits"]{background-position:0 -630px}
-a[href|="/c10"],a[href|="/rc10"],a[href|="/rdhappy"],a[href|="/rrdhappy"]{background-position:-70px 0}
-a[href|="/c11"],a[href|="/rc11"],a[href|="/twismile"],a[href|="/rtwismile"]{background-position:-70px -70px}
-a[href|="/c12"],a[href|="/rc12"],a[href|="/party"],a[href|="/rparty"]{background-position:-70px -140px}
-a[href|="/c13"],a[href|="/rc13"],a[href|="/gross"],a[href|="/rgross"]{background-position:-70px -210px}
-a[href|="/c14"],a[href|="/rc14"],a[href|="/hmmm"],a[href|="/rhmmm"]{background-position:-70px -280px}
-a[href|="/c15"],a[href|="/rc15"],a[href|="/fabulous"],a[href|="/rfabulous"]{background-position:-70px -350px}
-a[href|="/c16"],a[href|="/rc16"],a[href|="/lunasad"],a[href|="/rlunasad"]{background-position:-70px -420px}
-a[href|="/c17"],a[href|="/rc17"],a[href|="/loveme"],a[href|="/rloveme"]{background-position:-70px -490px}
-a[href|="/c18"],a[href|="/rc18"],a[href|="/celestia"],a[href|="/rcelestia"]{background-position:-70px -560px}
-a[href|="/c19"],a[href|="/rc19"],a[href|="/zecora"],a[href|="/rzecora"]{background-position:-70px -630px}
-a[href|="/c20"],a[href|="/rc20"],a[href|="/rdannoyed"],a[href|="/rrdannoyed"]{background-position:-140px 0}
-a[href|="/c21"],a[href|="/rc21"],a[href|="/twistare"],a[href|="/rtwistare"]{background-position:-140px -70px}
-a[href|="/c22"],a[href|="/rc22"],a[href|="/hahaha"],a[href|="/rhahaha"]{background-position:-140px -140px}
-a[href|="/c23"],a[href|="/rc23"],a[href|="/derpyhappy"],a[href|="/rderpyhappy"]{background-position:-140px -210px}
-a[href|="/c24"],a[href|="/rc24"],a[href|="/joy"],a[href|="/rjoy"]{background-position:-140px -280px}
-a[href|="/c25"],a[href|="/rc25"],a[href|="/derp"],a[href|="/rderp"]{background-position:-140px -350px}
-a[href|="/c26"],a[href|="/rc26"],a[href|="/derpyshock"],a[href|="/rderpyshock"]{background-position:-140px -420px}
-a[href|="/c27"],a[href|="/rc27"],a[href|="/lunagasp"],a[href|="/rlunagasp"]{background-position:-140px -490px}
-a[href|="/c28"],a[href|="/rc28"],a[href|="/angel"],a[href|="/rangel"]{background-position:-140px -560px}
-a[href|="/c29"],a[href|="/rc29"],a[href|="/photofinish"],a[href|="/rphotofinish"]{background-position:-140px -630px}
 a[href|="/swagintosh"],a[href|="/a24"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/IugBi-28qMxAgVzw.png)}
 a[href|="/rswagintosh"],a[href|="/ra24"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/ZqxffVrG2BJjyaAZ.png)}
 a[href|="/a00"],a[href|="/ajlie"],a[href|="/a01"],a[href|="/a10"],a[href|="/a11"],a[href|="/a21"],a[href|="/priceless"],a[href|="/a20"],a[href|="/flutterjerk"],a[href|="/celestiamad"],a[href|="/twicrazy"],a[href|="/twipride"],a[href|="/lunateehee"],a[href|="/lunawait"],a[href|="/a02"],a[href|="/a12"],a[href|="/a22"],a[href|="/a04"],a[href|="/a14"],a[href|="/a05"],a[href|="/a15"],a[href|="/paperbagderpy"],a[href|="/paperbagwizard"],a[href|="/derpwizard"],a[href|="/a03"],a[href|="/ajhappy"],a[href|="/happlejack"],a[href|="/a13"],a[href|="/ppfear"],a[href|="/pinkiefear"],a[href|="/ppfear"],a[href|="/a23"],a[href|="/twibeam"],a[href|="/raritydaww"],a[href|="/scootacheer"],a[href|="/lootascoo"],a[href|="/ajsup"],a[href|="/ajwhatsgood"],a[href|="/flutterwhoa"],a[href|="/flutterwoah"],a[href|="/a25"],a[href|="/rdsad"],a[href|="/a06"],a[href|="/ohcomeon"],a[href|="/sbcomeon"],a[href|="/ppcute"],a[href|="/cutiepie"],a[href|="/a16"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/h9OrKE9t2pLEhQAA.png)}
 a[href|="/ra00"],a[href|="/rajlie"],a[href|="/ra01"],a[href|="/ra10"],a[href|="/ra11"],a[href|="/ra21"],a[href|="/rpriceless"],a[href|="/ra20"],a[href|="/rflutterjerk"],a[href|="/rcelestiamad"],a[href|="/rtwicrazy"],a[href|="/rtwipride"],a[href|="/rlunateehee"],a[href|="/rlunawait"],a[href|="/ra02"],a[href|="/ra12"],a[href|="/ra22"],a[href|="/ra04"],a[href|="/ra14"],a[href|="/ra05"],a[href|="/ra15"] a[href|="/rpaperbagderpy"],a[href|="/rpaperbagwizard"],a[href|="/rderpwizard"],a[href|="/ra03"],a[href|="/rajhappy"],a[href|="/rhapplejack"],a[href|="/ra13"],a[href|="/rppfear"],a[href|="/rpinkiefear"],a[href|="/ppfear"],a[href|="/ra23"],a[href|="/rtwibeam"],a[href|="/rraritydaww"],a[href|="/rscootacheer"],a[href|="/rlootascoo"],a[href|="/rajsup"],a[href|="/rajwhatsgood"],a[href|="/rflutterwhoa"],a[href|="/rflutterwoah"],a[href|="/ra25"],a[href|="/rrdsad"],a[href|="/ra06"],a[href|="/rohcomeon"],a[href|="/rsbcomeon"],a[href|="/rppcute"],a[href|="/rcutiepie"],a[href|="/ra16"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/zmsW360ZKeEIvdfZ.png)}
 a[href|="/a00"],a[href|="/ra00"],a[href|="/ajlie"],a[href|="/rajlie"],a[href|="/swagintosh"],a[href|="/rswagintosh"],a[href|="/a24"],a[href|="/ra24"]{background-position:0 0}
-a[href|="/a10"],a[href|="/ra10"],a[href|="/priceless"],a[href|="/rpriceless"]{background-position:-70px 0}
-a[href|="/a20"],a[href|="/ra20"],a[href|="/flutterjerk"],a[href|="/rflutterjerk"]{background-position:-140px 0}
-a[href|="/a01"],a[href|="/ra01"],a[href|="/twipride"],a[href|="/rtwipride"]{background-position:0 -70px}
-a[href|="/a11"],a[href|="/ra11"],a[href|="/celestiamad"],a[href|="/rcelestiamad"]{background-position:-70px -70px}
-a[href|="/a21"],a[href|="/ra21"],a[href|="/twicrazy"],a[href|="/rtwicrazy"]{background-position:-140px -70px}
-a[href|="/a02"],a[href|="/lunateehee"],a[href|="/ra02"],a[href|="/rlunateehee"]{background-position:0 -140px}
-a[href|="/a12"],a[href|="/lunawait"],a[href|="/ra12"],a[href|="/rlunawait"]{background-position:-70px -140px}
-a[href|="/a22"],a[href|="/paperbagderpy"],a[href|="/paperbagwizard"],a[href|="/derpwizard"],a[href|="/ra22"],a[href|="/rpaperbagderpy"],a[href|="/rpaperbagwizard"],a[href|="/rderpwizard"]{background-position:-140px -140px}
-a[href|="/a03"],a[href|="/ajhappy"],a[href|="/happlejack"],a[href|="/ra03"],a[href|="/rajhappy"],a[href|="/rhapplejack"]{background-position:0 -210px}
-a[href|="/a13"],a[href|="/ra13"],a[href|="/ppfear"],a[href|="/rppfear"],a[href|="/pinkiefear"],a[href|="/rpinkiefear"],a[href|="/ppfear"],a[href|="/rppfear"]{background-position:-70px -210px}
-a[href|="/a23"],a[href|="/ra23"],a[href|="/twibeam"],a[href|="/rtwibeam"]{background-position:-140px -210px}
-a[href|="/a04"],a[href|="/ra04"],a[href|="/raritydaww"],a[href|="/rraritydaww"]{background-position:0 -280px}
-a[href|="/a14"],a[href|="/ra14"],a[href|="/scootacheer"],a[href|="/rscootacheer"],a[href|="/lootascoo"],a[href|="/rlootascoo"]{background-position:-70px -280px}
-a[href|="/a05"],a[href|="/ra05"],a[href|="/ajsup"],a[href|="/rajsup"],a[href|="/ajwhatsgood"],a[href|="/rajwhatsgood"]{background-position:0 -350px}
-a[href|="/a15"],a[href|="/ra15"],a[href|="/flutterwhoa"],a[href|="/rflutterwhoa"],a[href|="/flutterwoah"],a[href|="/rflutterwoah"]{background-position:-70px -350px}
-a[href|="/a25"],a[href|="/ra25"],a[href|="/rdsad"],a[href|="/rrdsad"]{background-position:-140px -350px}
-a[href|="/a06"],a[href|="/ra06"],a[href|="/ohcomeon"],a[href|="/rohcomeon"],a[href|="/sbcomeon"],a[href|="/rsbcomeon"]{background-position:0 -420px}
-a[href|="/a16"],a[href|="/ra16"],a[href|="/ppcute"],a[href|="/rppcute"],a[href|="/cutiepie"],a[href|="/rcutiepie"]{background-position:-70px -420px}
 a[href|="/e00"],a[href|="/e01"],a[href|="/e02"],a[href|="/e03"],a[href|="/e04"],a[href|="/e05"],a[href|="/e06"],a[href|="/e07"],a[href|="/e10"],a[href|="/e11"],a[href|="/e12"],a[href|="/e13"],a[href|="/e14"],a[href|="/e15"],a[href|="/e16"],a[href|="/e17"],a[href|="/e20"],a[href|="/e21"],a[href|="/e22"],a[href|="/e23"],a[href|="/e24"],a[href|="/e25"],a[href|="/e26"],a[href|="/e27"],a[href|="/e08"],a[href|="/e18"],a[href|="/e28"],a[href|="/l00"],a[href|="/lyra"],a[href|="/t00"],a[href|="/bonbon"],a[href|="/sbstare"],a[href|="/snails"],a[href|="/rdhuh"],a[href|="/spitfire"],a[href|="/cutealoo"],a[href|="/fillytgap"],a[href|="/happyluna"],a[href|="/lunahappy"],a[href|="/sotrue"],a[href|="/wahaha"],a[href|="/berry"],a[href|="/punchdrunk"],a[href|="/absmile"],a[href|="/huhhuh"],a[href|="/dealwithit"],a[href|="/nmm"],a[href|="/blacksnooty"],a[href|="/queenmeanie"],a[href|="/hokeysmokes"],a[href|="/whooves"],a[href|="/rdsalute"],a[href|="/octavia"],a[href|="/whomeverthisis"],a[href|="/colgate"],a[href|="/cheerilee"],a[href|="/ajconfused"],a[href|="/ajbaffle"],a[href|="/ajtherapy"],a[href|="/abhuh"],a[href|="/lily"],a[href|="/thehorror"],a[href|="/twiponder"],a[href|="/spikewtf"],a[href|="/awwyeah"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/B9b4wx3DdLUY2HDd.png)}
 a[href|="/re00"],a[href|="/re01"],a[href|="/re02"],a[href|="/re03"],a[href|="/re04"],a[href|="/re05"],a[href|="/re06"],a[href|="/re07"],a[href|="/re10"],a[href|="/re11"],a[href|="/re12"],a[href|="/re13"],a[href|="/re14"],a[href|="/re15"],a[href|="/re16"],a[href|="/re17"],a[href|="/re20"],a[href|="/re21"],a[href|="/re22"],a[href|="/re23"],a[href|="/re24"],a[href|="/re25"],a[href|="/re26"],a[href|="/re27"],a[href|="/re08"],a[href|="/re18"],a[href|="/re28"],a[href|="/rl00"],a[href|="/rlyra"],a[href|="/rt00"],a[href|="/rbonbon"],a[href|="/rsbstare"],a[href|="/rsnails"],a[href|="/rrdhuh"],a[href|="/rspitfire"],a[href|="/rcutealoo"],a[href|="/rfillytgap"],a[href|="/rhappyluna"],a[href|="/rlunahappy"],a[href|="/rsotrue"],a[href|="/rwahaha"],a[href|="/rberry"],a[href|="/rpunchdrunk"],a[href|="/rabsmile"],a[href|="/rhuhhuh"],a[href|="/rdealwithit"],a[href|="/rnmm"],a[href|="/rblacksnooty"],a[href|="/rqueenmeanie"],a[href|="/rhokeysmokes"],a[href|="/rwhooves"],a[href|="/rrdsalute"],a[href|="/roctavia"],a[href|="/rwhomeverthisis"],a[href|="/rcolgate"],a[href|="/rcheerilee"],a[href|="/rajconfused"],a[href|="/rajbaffle"],a[href|="/rajtherapy"],a[href|="/rabhuh"],a[href|="/rlily"],a[href|="/rthehorror"],a[href|="/rtwiponder"],a[href|="/rspikewtf"],a[href|="/rawwyeah"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://d.thumbs.redditmedia.com/FP_ipjhyH6oI5bFE.png)}
-a[href|="/l00"],a[href|="/rl00"],a[href|="/e01"],a[href|="/re01"],a[href|="/lyra"]{background-position:0 0}
-a[href|="/t00"],a[href|="/rt00"],a[href|="/e00"],a[href|="/re00"],a[href|="/fillytgap"],a[href|="/rfillytgap"]{background-position:-70px 0}
-a[href|="/e11"],a[href|="/re11"],a[href|="/bonbon"],a[href|="/rbonbon"]{background-position:-140px 0}
-a[href|="/e20"],a[href|="/re20"],a[href|="/snails"],a[href|="/rsnails"]{background-position:0 -70px}
-a[href|="/e10"],a[href|="/re10"],a[href|="/rdhuh"],a[href|="/rrdhuh"]{background-position:-70px -70px}
-a[href|="/e21"],a[href|="/re21"],a[href|="/spitfire"],a[href|="/rspitfire"]{background-position:-140px -70px}
-a[href|="/e02"],a[href|="/re02"],a[href|="/cutealoo"],a[href|="/rcutealoo"]{background-position:0 -140px}
-a[href|="/e12"],a[href|="/re12"],a[href|="/happyluna"],a[href|="/rhappyluna"],a[href|="/lunahappy"],a[href|="/rlunahappy"]{background-position:-70px -140px}
-a[href|="/e22"],a[href|="/re22"],a[href|="/sotrue"],a[href|="/rsotrue"]{background-position:-140px -140px}
-a[href|="/e03"],a[href|="/re03"],a[href|="/wahaha"],a[href|="/rwahaha"]{background-position:0 -210px}
-a[href|="/e13"],a[href|="/re13"],a[href|="/sbstare"],a[href|="/rsbstare"]{background-position:-70px -210px}
-a[href|="/e23"],a[href|="/re23"],a[href|="/berry"],a[href|="/rberry"],a[href|="/punchdrunk"],a[href|="/rpunchdrunk"]{background-position:-140px -210px}
-a[href|="/e14"],a[href|="/re14"],a[href|="/absmile"],a[href|="/rabsmile"]{background-position:0 -280px}
-a[href|="/e04"],a[href|="/re04"],a[href|="/huhhuh"],a[href|="/rhuhhuh"]{background-position:-70px -280px}
-a[href|="/e24"],a[href|="/re24"],a[href|="/dealwithit"],a[href|="/rdealwithit"]{background-position:-140px -280px}
-a[href|="/e05"],a[href|="/re05"],a[href|="/nmm"],a[href|="/blacksnooty"],a[href|="/rnmm"],a[href|="/rblacksnooty"],a[href|="/queenmeanie"],a[href|="/rqueenmeanie"],a[href|="/hokeysmokes"],a[href|="/rhokeysmokes"]{background-position:0 -350px}
-a[href|="/e15"],a[href|="/re15"],a[href|="/whooves"],a[href|="/rwhooves"]{background-position:-70px -350px}
-a[href|="/e25"],a[href|="/re25"],a[href|="/rdsalute"],a[href|="/rrdsalute"]{background-position:-140px -350px}
-a[href|="/e06"],a[href|="/re06"],a[href|="/octavia"],a[href|="/whomeverthisis"],a[href|="/rwhomeverthisis"],a[href|="/roctavia"]{background-position:0 -420px}
-a[href|="/e16"],a[href|="/re16"],a[href|="/colgate"],a[href|="/rcolgate"]{background-position:-70px -420px}
-a[href|="/e26"],a[href|="/re26"],a[href|="/cheerilee"],a[href|="/rcheerilee"]{background-position:-140px -420px}
-a[href|="/e07"],a[href|="/re07"],a[href|="/ajconfused"],a[href|="/rajconfused"],a[href|="/ajbaffle"],a[href|="/rajbaffle"],a[href|="/ajtherapy"],a[href|="/rajtherapy"]{background-position:0 -490px}
-a[href|="/e17"],a[href|="/re17"],a[href|="/abhuh"],a[href|="/rabhuh"]{background-position:-70px -490px}
-a[href|="/e27"],a[href|="/re27"],a[href|="/lily"],a[href|="/rlily"],a[href|="/thehorror"],a[href|="/rthehorror"]{background-position:-140px -490px}
-a[href|="/e08"],a[href|="/re08"],a[href|="/twiponder"],a[href|="/rtwiponder"]{background-position:0 -560px}
-a[href|="/e18"],a[href|="/re18"],a[href|="/spikewtf"],a[href|="/rspikewtf"]{background-position:-70px -560px}
-a[href|="/e28"],a[href|="/re28"],a[href|="/awwyeah"],a[href|="/rawwyeah"]{background-position:-140px -560px}
-/*== /r/iltbat ==*/
 a[href|="/d00"],a[href|="/d01"],a[href|="/d02"],a[href|="/d03"],a[href|="/d04"],a[href|="/d05"],a[href|="/d06"],a[href|="/d07"],a[href|="/d08"],a[href|="/d09"],a[href|="/d10"],a[href|="/d11"],a[href|="/d12"],a[href|="/d13"],a[href|="/d14"],a[href|="/d15"],a[href|="/d16"],a[href|="/d17"],a[href|="/d18"],a[href|="/d19"],a[href|="/d20"],a[href|="/d21"],a[href|="/d22"],a[href|="/d23"],a[href|="/d24"],a[href|="/d25"],a[href|="/d26"],a[href|="/d27"],a[href|="/d28"],a[href|="/d29"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://e.thumbs.redditmedia.com/rbi281-z8LatHB4R.png)}
 a[href|="/rd00"],a[href|="/rd01"],a[href|="/rd02"],a[href|="/rd03"],a[href|="/rd04"],a[href|="/rd05"],a[href|="/rd06"],a[href|="/rd07"],a[href|="/rd08"],a[href|="/rd09"],a[href|="/rd10"],a[href|="/rd11"],a[href|="/rd12"],a[href|="/rd13"],a[href|="/rd14"],a[href|="/rd15"],a[href|="/rd16"],a[href|="/rd17"],a[href|="/rd18"],a[href|="/rd19"],a[href|="/rd20"],a[href|="/rd21"],a[href|="/rd22"],a[href|="/rd23"],a[href|="/rd24"],a[href|="/rd25"],a[href|="/rd26"],a[href|="/rd27"],a[href|="/rd28"],a[href|="/rd29"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/zMysJBPKLKNz5OMN.png)}
-a[href|="/d00"],a[href|="/rd00"]{background-position:0 0}
-a[href|="/d01"],a[href|="/rd01"]{background-position:0 -70px}
-a[href|="/d02"],a[href|="/rd02"]{background-position:0 -140px}
-a[href|="/d03"],a[href|="/rd03"]{background-position:0 -210px}
-a[href|="/d04"],a[href|="/rd04"]{background-position:0 -280px}
-a[href|="/d05"],a[href|="/rd05"]{background-position:0 -350px}
-a[href|="/d06"],a[href|="/rd06"]{background-position:0 -420px}
-a[href|="/d07"],a[href|="/rd07"]{background-position:0 -490px}
-a[href|="/d08"],a[href|="/rd08"]{background-position:0 -560px}
-a[href|="/d09"],a[href|="/rd09"]{background-position:0 -630px}
-a[href|="/d10"],a[href|="/rd10"]{background-position:-70px 0}
-a[href|="/d11"],a[href|="/rd11"]{background-position:-70px -70px}
-a[href|="/d12"],a[href|="/rd12"]{background-position:-70px -140px}
-a[href|="/d13"],a[href|="/rd13"]{background-position:-70px -210px}
-a[href|="/d14"],a[href|="/rd14"]{background-position:-70px -280px}
-a[href|="/d15"],a[href|="/rd15"]{background-position:-70px -350px}
-a[href|="/d16"],a[href|="/rd16"]{background-position:-70px -420px}
-a[href|="/d17"],a[href|="/rd17"]{background-position:-70px -490px}
-a[href|="/d18"],a[href|="/rd18"]{background-position:-70px -560px}
-a[href|="/d19"],a[href|="/rd19"]{background-position:-70px -630px}
-a[href|="/d20"],a[href|="/rd20"]{background-position:-140px 0}
-a[href|="/d21"],a[href|="/rd21"]{background-position:-140px -70px}
-a[href|="/d22"],a[href|="/rd22"]{background-position:-140px -140px}
-a[href|="/d23"],a[href|="/rd23"]{background-position:-140px -210px}
-a[href|="/d24"],a[href|="/rd24"]{background-position:-140px -280px}
-a[href|="/d25"],a[href|="/rd25"]{background-position:-140px -350px}
-a[href|="/d26"],a[href|="/rd26"]{background-position:-140px -420px}
-a[href|="/d27"],a[href|="/rd27"]{background-position:-140px -490px}
-a[href|="/d28"],a[href|="/rd28"]{background-position:-140px -560px}
-a[href|="/d29"],a[href|="/rd29"]{background-position:-140px -630px}
 a[href|="/st00"],a[href|="/st01"],a[href|="/st02"],a[href|="/st03"],a[href|="/st04"],a[href|="/st05"],a[href|="/st06"],a[href|="/st07"],a[href|="/st08"],a[href|="/st09"],a[href|="/st10"],a[href|="/st11"],a[href|="/st12"],a[href|="/st13"],a[href|="/st14"],a[href|="/st15"],a[href|="/st16"],a[href|="/st17"],a[href|="/st18"],a[href|="/st19"],a[href|="/st20"],a[href|="/st21"],a[href|="/st22"],a[href|="/st23"],a[href|="/st24"],a[href|="/st25"],a[href|="/st26"],a[href|="/st27"],a[href|="/st28"],a[href|="/st29"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/eYNmDAxOz5Ul7GLq.png)}
 a[href|="/rst00"],a[href|="/rst01"],a[href|="/rst02"],a[href|="/rst03"],a[href|="/rst04"],a[href|="/rst05"],a[href|="/rst06"],a[href|="/rst07"],a[href|="/rst08"],a[href|="/rst09"],a[href|="/rst10"],a[href|="/rst11"],a[href|="/rst12"],a[href|="/rst13"],a[href|="/rst14"],a[href|="/rst15"],a[href|="/rst16"],a[href|="/rst17"],a[href|="/rst18"],a[href|="/rst19"],a[href|="/rst20"],a[href|="/rst21"],a[href|="/rst22"],a[href|="/rst23"],a[href|="/rst24"],a[href|="/rst25"],a[href|="/rst26"],a[href|="/rst27"],a[href|="/rst28"],a[href|="/rst29"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://c.thumbs.redditmedia.com/U6IxkP4SNnmRX1Jh.png)}
-a[href|="/st00"],a[href|="/rst00"]{background-position:0 0}
-a[href|="/st01"],a[href|="/rst01"]{background-position:0 -70px}
-a[href|="/st02"],a[href|="/rst02"]{background-position:0 -140px}
-a[href|="/st03"],a[href|="/rst03"]{background-position:0 -210px}
-a[href|="/st04"],a[href|="/rst04"]{background-position:0 -280px}
-a[href|="/st05"],a[href|="/rst05"]{background-position:0 -350px}
-a[href|="/st06"],a[href|="/rst06"]{background-position:0 -420px}
-a[href|="/st07"],a[href|="/rst07"]{background-position:0 -490px}
-a[href|="/st08"],a[href|="/rst08"]{background-position:0 -560px}
-a[href|="/st09"],a[href|="/rst09"]{background-position:0 -630px}
-a[href|="/st10"],a[href|="/rst10"]{background-position:-70px 0}
-a[href|="/st11"],a[href|="/rst11"]{background-position:-70px -70px}
-a[href|="/st12"],a[href|="/rst12"]{background-position:-70px -140px}
-a[href|="/st13"],a[href|="/rst13"]{background-position:-70px -210px}
-a[href|="/st14"],a[href|="/rst14"]{background-position:-70px -280px}
-a[href|="/st15"],a[href|="/rst15"]{background-position:-70px -350px}
-a[href|="/st16"],a[href|="/rst16"]{background-position:-70px -420px}
-a[href|="/st17"],a[href|="/rst17"]{background-position:-70px -490px}
-a[href|="/st18"],a[href|="/rst18"]{background-position:-70px -560px}
-a[href|="/st19"],a[href|="/rst19"]{background-position:-70px -630px}
-a[href|="/st20"],a[href|="/rst20"]{background-position:-140px 0}
-a[href|="/st21"],a[href|="/rst21"]{background-position:-140px -70px}
-a[href|="/st22"],a[href|="/rst22"]{background-position:-140px -140px}
-a[href|="/st23"],a[href|="/rst23"]{background-position:-140px -210px}
-a[href|="/st24"],a[href|="/rst24"]{background-position:-140px -280px}
-a[href|="/st25"],a[href|="/rst25"]{background-position:-140px -350px}
-a[href|="/st26"],a[href|="/rst26"]{background-position:-140px -420px}
-a[href|="/st27"],a[href|="/rst27"]{background-position:-140px -490px}
-a[href|="/st28"],a[href|="/rst28"]{background-position:-140px -560px}
-a[href|="/st29"],a[href|="/rst29"]{background-position:-140px -630px}
-/* /r/TwilightSparkle */
-a[href|="/ts00"],a[href|="/ts10"],a[href|="/ts20"],a[href|="/ts01"],a[href|="/ts11"],a[href|="/ts21"],a[href|="/ts02"],a[href|="/ts12"],a[href|="/ts22"],a[href|="/ts03"],a[href|="/ts13"],a[href|="/ts23"],a[href|="/ts04"],a[href|="/ts14"],a[href|="/ts24"],a[href|="/ts05"],a[href|="/ts15"],a[href|="/ts25"],a[href|="/ts06"],a[href|="/ts16"],a[href|="/ts26"],a[href|="/tshappy"],a[href|="/tsiwin"],a[href|="/tspillow"],a[href|="/tstardy"],a[href|="/tssad"],a[href|="/tsgrrr"],a[href|="/tsawww"],a[href|="/tsyeah"],a[href|="/tsglare"],a[href|="/tspromise"],a[href|="/tsbroken"],a[href|="/tsawkward"],a[href|="/tsmyhorn"],a[href|="/tsilikethis"],a[href|="/tssure"],a[href|="/tsannoyed"],a[href|="/tsderp"],a[href|="/tscrazysmile"],a[href|="/tsunsure"],a[href|="/tscurious"],a[href|="/tsbashful"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/jEjEeSdyn6LM2qsH.png);}
-a[href|="/rts00"],a[href|="/rts10"],a[href|="/rts20"],a[href|="/rts01"],a[href|="/rts11"],a[href|="/rts21"],a[href|="/rts02"],a[href|="/rts12"],a[href|="/rts22"],a[href|="/rts03"],a[href|="/rts13"],a[href|="/rts23"],a[href|="/rts04"],a[href|="/rts14"],a[href|="/rts24"],a[href|="/rts05"],a[href|="/rts15"],a[href|="/rts25"],a[href|="/rts06"],a[href|="/rts16"],a[href|="/rts26"],a[href|="/rtshappy"],a[href|="/rtsiwin"],a[href|="/rtspillow"],a[href|="/rtstardy"],a[href|="/rtssad"],a[href|="/rtsgrrr"],a[href|="/rtsawww"],a[href|="/rtsyeah"],a[href|="/rtsglare"],a[href|="/rtspromise"],a[href|="/rtsbroken"],a[href|="/rtsawkward"],a[href|="/rtsmyhorn"],a[href|="/rtsilikethis"],a[href|="/rtssure"],a[href|="/rtsannoyed"],a[href|="/rtsderp"],a[href|="/rtscrazysmile"],a[href|="/rtsunsure"],a[href|="/rtscurious"],a[href|="/rtsbashful"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://a.thumbs.redditmedia.com/8bBNKmKGMBDm2d2r.png);}
-a[href|="/ts00"],a[href|="/rts00"],a[href|="/tshappy"],a[href|="/rtshappy"]{background-position:0 0;}
-a[href|="/ts10"],a[href|="/rts10"],a[href|="/tsyeah"],a[href|="/rtsyeah"]{background-position:-70px 0;}
-a[href|="/ts20"],a[href|="/rts20"],a[href|="/tssure"],a[href|="/rtssure"]{background-position:-140px 0;}
-a[href|="/ts01"],a[href|="/rts01"],a[href|="/tsiwin"],a[href|="/rtsiwin"]{background-position:0 -70px;}
-a[href|="/ts11"],a[href|="/rts11"],a[href|="/tsglare"],a[href|="/rtsglare"]{background-position:-70px -70px;}
-a[href|="/ts21"],a[href|="/rts21"],a[href|="/tsannoyed"],a[href|="/rtsannoyed"]{background-position:-140px -70px;}
-a[href|="/ts02"],a[href|="/rts02"],a[href|="/tspillow"],a[href|="/rtspillow"]{background-position:0 -140px;}
-a[href|="/ts12"],a[href|="/rts12"],a[href|="/tspromise"],a[href|="/rtspromise"]{background-position:-70px -140px;}
-a[href|="/ts22"],a[href|="/rts22"],a[href|="/tsderp"],a[href|="/rtsderp"]{background-position:-140px -140px;}
-a[href|="/ts03"],a[href|="/rts03"],a[href|="/tstardy"],a[href|="/rtstardy"]{background-position:0 -210px;}
-a[href|="/ts13"],a[href|="/rts13"],a[href|="/tsbroken"],a[href|="/rtsbroken"]{background-position:-70px -210px;}
-a[href|="/ts23"],a[href|="/rts23"],a[href|="/tscrazysmile"],a[href|="/rtscrazysmile"]{background-position:-140px -210px;}
-a[href|="/ts04"],a[href|="/rts04"],a[href|="/tssad"],a[href|="/rtssad"]{background-position:0 -280px;}
-a[href|="/ts14"],a[href|="/rts14"],a[href|="/tsawkward"],a[href|="/rtsawkward"]{background-position:-70px -280px;}
-a[href|="/ts24"],a[href|="/rts24"],a[href|="/tsunsure"],a[href|="/rtsunsure"]{background-position:-140px -280px;}
-a[href|="/ts05"],a[href|="/rts05"],a[href|="/tsgrrr"],a[href|="/rtsgrrr"]{background-position:0 -350px;}
-a[href|="/ts15"],a[href|="/rts15"],a[href|="/tsmyhorn"],a[href|="/rtsmyhorn"]{background-position:-70px -350px;}
-a[href|="/ts25"],a[href|="/rts25"],a[href|="/tscurious"],a[href|="/rtscurious"]{background-position:-140px -350px;}
-a[href|="/ts06"],a[href|="/rts06"],a[href|="/tsawww"],a[href|="/rtsawww"]{background-position:0 -420px;}
-a[href|="/ts16"],a[href|="/rts16"],a[href|="/tsilikethis"],a[href|="/rtsilikethis"]{background-position:-70px -420px;}
-a[href|="/ts26"],a[href|="/rts26"],a[href|="/tsbashful"],a[href|="/rtsbashful"]{background-position:-140px -420px;}
-/* /r/ainbowdash */
+a[href|="/d07"],a[href|="/rd07"],a[href|="/st07"],a[href|="/rst07"],a[href|="/c07"],a[href|="/rc07"],a[href|="/pinkamina"],a[href|="/rpinkamina"],a[href|="/e07"],a[href|="/re07"],a[href|="/ajconfused"],a[href|="/rajconfused"],a[href|="/ajbaffle"],a[href|="/rajbaffle"],a[href|="/ajtherapy"],a[href|="/rajtherapy"]{background-position:0 -490px;}
+a[href|="/d08"],a[href|="/rd08"],a[href|="/st08"],a[href|="/rst08"],a[href|="/c08"],a[href|="/rc08"],a[href|="/scootaloo"],a[href|="/rscootaloo"],a[href|="/e08"],a[href|="/re08"],a[href|="/twiponder"],a[href|="/rtwiponder"]{background-position:0 -560px;}
+a[href|="/d09"],a[href|="/rd09"],a[href|="/st09"],a[href|="/rst09"],a[href|="/c09"],a[href|="/rc09"],a[href|="/allmybits"],a[href|="/rallmybits"]{background-position:0 -630px;}
+a[href|="/d17"],a[href|="/rd17"],a[href|="/st17"],a[href|="/rst17"],a[href|="/c17"],a[href|="/rc17"],a[href|="/loveme"],a[href|="/rloveme"],a[href|="/e17"],a[href|="/re17"],a[href|="/abhuh"],a[href|="/rabhuh"]{background-position:-70px -490px;}
+a[href|="/d18"],a[href|="/rd18"],a[href|="/st18"],a[href|="/rst18"],a[href|="/c18"],a[href|="/rc18"],a[href|="/celestia"],a[href|="/rcelestia"],a[href|="/e18"],a[href|="/re18"],a[href|="/spikewtf"],a[href|="/rspikewtf"]{background-position:-70px -560px;}
+a[href|="/d19"],a[href|="/rd19"],a[href|="/st19"],a[href|="/rst19"],a[href|="/c19"],a[href|="/rc19"],a[href|="/zecora"],a[href|="/rzecora"]{background-position:-70px -630px;}
+a[href|="/d27"],a[href|="/rd27"],a[href|="/st27"],a[href|="/rst27"],a[href|="/c27"],a[href|="/rc27"],a[href|="/lunagasp"],a[href|="/rlunagasp"],a[href|="/e27"],a[href|="/re27"],a[href|="/lily"],a[href|="/rlily"],a[href|="/thehorror"],a[href|="/rthehorror"]{background-position:-140px -490px;}
+a[href|="/d28"],a[href|="/rd28"],a[href|="/st28"],a[href|="/rst28"],a[href|="/c28"],a[href|="/rc28"],a[href|="/angel"],a[href|="/rangel"],a[href|="/e28"],a[href|="/re28"],a[href|="/awwyeah"],a[href|="/rawwyeah"]{background-position:-140px -560px;}
+a[href|="/d29"],a[href|="/rd29"],a[href|="/st29"],a[href|="/rst29"],a[href|="/c29"],a[href|="/rc29"],a[href|="/photofinish"],a[href|="/rphotofinish"]{background-position:-140px -630px;}
+a[href|="/d00"],a[href|="/rd00"],a[href|="/st00"],a[href|="/rst00"],a[href|="/c00"],a[href|="/rc00"],a[href|="/rdsitting"],a[href|="/rrdsitting"],a[href|="/l00"],a[href|="/rl00"],a[href|="/e01"],a[href|="/re01"],a[href|="/lyra"],a[href|="/ts00"],a[href|="/rts00"],a[href|="/tshappy"],a[href|="/rtshappy"],a[href|="/cgt00"],a[href="/dash00"],a[href="/scootacute"],a[href="/scootabrag"],a[href="/ovenmitt"]{background-position:0 0;}
+a[href|="/d01"],a[href|="/rd01"],a[href|="/st01"],a[href|="/rst01"],a[href|="/c01"],a[href|="/rc01"],a[href|="/twismug"],a[href|="/rtwismug"],a[href|="/a01"],a[href|="/ra01"],a[href|="/twipride"],a[href|="/rtwipride"],a[href|="/e20"],a[href|="/re20"],a[href|="/snails"],a[href|="/rsnails"],a[href|="/ts01"],a[href|="/rts01"],a[href|="/tsiwin"],a[href|="/rtsiwin"],a[href|="/cgt02"],a[href="/dash10"],a[href="/cooldash"],a[href="/dealwithitdash"]{background-position:0 -70px;}
+a[href|="/d02"],a[href|="/rd02"],a[href|="/st02"],a[href|="/rst02"],a[href|="/c02"],a[href|="/rc02"],a[href|="/ohhi"],a[href|="/rohhi"],a[href|="/a02"],a[href|="/lunateehee"],a[href|="/ra02"],a[href|="/rlunateehee"],a[href|="/e02"],a[href|="/re02"],a[href|="/cutealoo"],a[href|="/rcutealoo"],a[href|="/ts02"],a[href|="/rts02"],a[href|="/tspillow"],a[href|="/rtspillow"],a[href|="/cgt04"],a[href="/dash20"],a[href="/dashponder"],a[href="/dashthinking"]{background-position:0 -140px;}
+a[href|="/d03"],a[href|="/rd03"],a[href|="/st03"],a[href|="/rst03"],a[href|="/c03"],a[href|="/rc03"],a[href|="/flutterblush"],a[href|="/rflutterblush"],a[href|="/a03"],a[href|="/ajhappy"],a[href|="/happlejack"],a[href|="/ra03"],a[href|="/rajhappy"],a[href|="/rhapplejack"],a[href|="/e03"],a[href|="/re03"],a[href|="/wahaha"],a[href|="/rwahaha"],a[href|="/ts03"],a[href|="/rts03"],a[href|="/tstardy"],a[href|="/rtstardy"],a[href|="/cgt06"],a[href="/dash03"],a[href="/dashmeh"],a[href="/meh"]{background-position:0 -210px;}
+a[href|="/d04"],a[href|="/rd04"],a[href|="/st04"],a[href|="/rst04"],a[href|="/c04"],a[href|="/rc04"],a[href|="/ajfrown"],a[href|="/rajfrown"],a[href|="/a04"],a[href|="/ra04"],a[href|="/raritydaww"],a[href|="/rraritydaww"],a[href|="/e14"],a[href|="/re14"],a[href|="/absmile"],a[href|="/rabsmile"],a[href|="/ts04"],a[href|="/rts04"],a[href|="/tssad"],a[href|="/rtssad"],a[href|="/cgt08"]{background-position:0 -280px;}
+a[href|="/d05"],a[href|="/rd05"],a[href|="/st05"],a[href|="/rst05"],a[href|="/c05"],a[href|="/rc05"],a[href|="/raritysad"],a[href|="/rraritysad"],a[href|="/a05"],a[href|="/ra05"],a[href|="/ajsup"],a[href|="/rajsup"],a[href|="/ajwhatsgood"],a[href|="/rajwhatsgood"],a[href|="/e05"],a[href|="/re05"],a[href|="/nmm"],a[href|="/blacksnooty"],a[href|="/rnmm"],a[href|="/rblacksnooty"],a[href|="/queenmeanie"],a[href|="/rqueenmeanie"],a[href|="/hokeysmokes"],a[href|="/rhokeysmokes"],a[href|="/ts05"],a[href|="/rts05"],a[href|="/tsgrrr"],a[href|="/rtsgrrr"]{background-position:0 -350px;}
+a[href|="/d06"],a[href|="/rd06"],a[href|="/st06"],a[href|="/rst06"],a[href|="/c06"],a[href|="/rc06"],a[href|="/louder"],a[href|="/rlouder"],a[href|="/a06"],a[href|="/ra06"],a[href|="/ohcomeon"],a[href|="/rohcomeon"],a[href|="/sbcomeon"],a[href|="/rsbcomeon"],a[href|="/e06"],a[href|="/re06"],a[href|="/octavia"],a[href|="/whomeverthisis"],a[href|="/rwhomeverthisis"],a[href|="/roctavia"],a[href|="/ts06"],a[href|="/rts06"],a[href|="/tsawww"],a[href|="/rtsawww"]{background-position:0 -420px;}
+a[href|="/d10"],a[href|="/rd10"],a[href|="/st10"],a[href|="/rst10"],a[href|="/c10"],a[href|="/rc10"],a[href|="/rdhappy"],a[href|="/rrdhappy"],a[href|="/a10"],a[href|="/ra10"],a[href|="/priceless"],a[href|="/rpriceless"],a[href|="/t00"],a[href|="/rt00"],a[href|="/e00"],a[href|="/re00"],a[href|="/fillytgap"],a[href|="/rfillytgap"],a[href|="/ts10"],a[href|="/rts10"],a[href|="/tsyeah"],a[href|="/rtsyeah"],a[href|="/cgt01"],a[href="/dash01"],a[href="/jedifilly"],a[href="/fillyjedi"]{background-position:-70px 0;}
+a[href|="/d11"],a[href|="/rd11"],a[href|="/st11"],a[href|="/rst11"],a[href|="/c11"],a[href|="/rc11"],a[href|="/twismile"],a[href|="/rtwismile"],a[href|="/a11"],a[href|="/ra11"],a[href|="/celestiamad"],a[href|="/rcelestiamad"],a[href|="/e10"],a[href|="/re10"],a[href|="/rdhuh"],a[href|="/rrdhuh"],a[href|="/ts11"],a[href|="/rts11"],a[href|="/tsglare"],a[href|="/rtsglare"],a[href|="/cgt03"],a[href="/dash11"],a[href="/fillydash"],a[href="/bounce"],a[href="/dashjoy"]{background-position:-70px -70px;}
+a[href|="/d12"],a[href|="/rd12"],a[href|="/st12"],a[href|="/rst12"],a[href|="/c12"],a[href|="/rc12"],a[href|="/party"],a[href|="/rparty"],a[href|="/a12"],a[href|="/lunawait"],a[href|="/ra12"],a[href|="/rlunawait"],a[href|="/e12"],a[href|="/re12"],a[href|="/happyluna"],a[href|="/rhappyluna"],a[href|="/lunahappy"],a[href|="/rlunahappy"],a[href|="/ts12"],a[href|="/rts12"],a[href|="/tspromise"],a[href|="/rtspromise"],a[href|="/cgt05"],a[href="/dash21"],a[href="/dashomg"],a[href="/omgomgomg"]{background-position:-70px -140px;}
+a[href|="/d13"],a[href|="/rd13"],a[href|="/st13"],a[href|="/rst13"],a[href|="/c13"],a[href|="/rc13"],a[href|="/gross"],a[href|="/rgross"],a[href|="/a13"],a[href|="/ra13"],a[href|="/ppfear"],a[href|="/rppfear"],a[href|="/pinkiefear"],a[href|="/rpinkiefear"],a[href|="/ppfear"],a[href|="/rppfear"],a[href|="/e13"],a[href|="/re13"],a[href|="/sbstare"],a[href|="/rsbstare"],a[href|="/ts13"],a[href|="/rts13"],a[href|="/tsbroken"],a[href|="/rtsbroken"],a[href|="/cgt07"],a[href="/dash13"],a[href="/dashhappy"],a[href="/dashlovesyou"],a[href="/dashsurprise"]{background-position:-70px -210px;}
+a[href|="/d14"],a[href|="/rd14"],a[href|="/st14"],a[href|="/rst14"],a[href|="/c14"],a[href|="/rc14"],a[href|="/hmmm"],a[href|="/rhmmm"],a[href|="/a14"],a[href|="/ra14"],a[href|="/scootacheer"],a[href|="/rscootacheer"],a[href|="/lootascoo"],a[href|="/rlootascoo"],a[href|="/e04"],a[href|="/re04"],a[href|="/huhhuh"],a[href|="/rhuhhuh"],a[href|="/ts14"],a[href|="/rts14"],a[href|="/tsawkward"],a[href|="/rtsawkward"],a[href|="/cgt09"]{background-position:-70px -280px;}
+a[href|="/d15"],a[href|="/rd15"],a[href|="/st15"],a[href|="/rst15"],a[href|="/c15"],a[href|="/rc15"],a[href|="/fabulous"],a[href|="/rfabulous"],a[href|="/a15"],a[href|="/ra15"],a[href|="/flutterwhoa"],a[href|="/rflutterwhoa"],a[href|="/flutterwoah"],a[href|="/rflutterwoah"],a[href|="/e15"],a[href|="/re15"],a[href|="/whooves"],a[href|="/rwhooves"],a[href|="/ts15"],a[href|="/rts15"],a[href|="/tsmyhorn"],a[href|="/rtsmyhorn"]{background-position:-70px -350px;}
+a[href|="/d16"],a[href|="/rd16"],a[href|="/st16"],a[href|="/rst16"],a[href|="/c16"],a[href|="/rc16"],a[href|="/lunasad"],a[href|="/rlunasad"],a[href|="/a16"],a[href|="/ra16"],a[href|="/ppcute"],a[href|="/rppcute"],a[href|="/cutiepie"],a[href|="/rcutiepie"],a[href|="/e16"],a[href|="/re16"],a[href|="/colgate"],a[href|="/rcolgate"],a[href|="/ts16"],a[href|="/rts16"],a[href|="/tsilikethis"],a[href|="/rtsilikethis"]{background-position:-70px -420px;}
+a[href|="/d20"],a[href|="/rd20"],a[href|="/st20"],a[href|="/rst20"],a[href|="/c20"],a[href|="/rc20"],a[href|="/rdannoyed"],a[href|="/rrdannoyed"],a[href|="/a20"],a[href|="/ra20"],a[href|="/flutterjerk"],a[href|="/rflutterjerk"],a[href|="/e11"],a[href|="/re11"],a[href|="/bonbon"],a[href|="/rbonbon"],a[href|="/ts20"],a[href|="/rts20"],a[href|="/tssure"],a[href|="/rtssure"],a[href="/dash02"],a[href="/dashbadass"],a[href="/badassdash"]{background-position:-140px 0;}
+a[href|="/d21"],a[href|="/rd21"],a[href|="/st21"],a[href|="/rst21"],a[href|="/c21"],a[href|="/rc21"],a[href|="/twistare"],a[href|="/rtwistare"],a[href|="/a21"],a[href|="/ra21"],a[href|="/twicrazy"],a[href|="/rtwicrazy"],a[href|="/e21"],a[href|="/re21"],a[href|="/spitfire"],a[href|="/rspitfire"],a[href|="/ts21"],a[href|="/rts21"],a[href|="/tsannoyed"],a[href|="/rtsannoyed"],a[href="/dash12"],a[href="/dashsmile"],a[href="/smilingdash"]{background-position:-140px -70px;}
+a[href|="/d22"],a[href|="/rd22"],a[href|="/st22"],a[href|="/rst22"],a[href|="/c22"],a[href|="/rc22"],a[href|="/hahaha"],a[href|="/rhahaha"],a[href|="/a22"],a[href|="/paperbagderpy"],a[href|="/paperbagwizard"],a[href|="/derpwizard"],a[href|="/ra22"],a[href|="/rpaperbagderpy"],a[href|="/rpaperbagwizard"],a[href|="/rderpwizard"],a[href|="/e22"],a[href|="/re22"],a[href|="/sotrue"],a[href|="/rsotrue"],a[href|="/ts22"],a[href|="/rts22"],a[href|="/tsderp"],a[href|="/rtsderp"],a[href="/dash22"],a[href="/dashbook"],a[href="/reading"],a[href="/coolstorybro"]{background-position:-140px -140px;}
+a[href|="/d23"],a[href|="/rd23"],a[href|="/st23"],a[href|="/rst23"],a[href|="/c23"],a[href|="/rc23"],a[href|="/derpyhappy"],a[href|="/rderpyhappy"],a[href|="/a23"],a[href|="/ra23"],a[href|="/twibeam"],a[href|="/rtwibeam"],a[href|="/e23"],a[href|="/re23"],a[href|="/berry"],a[href|="/rberry"],a[href|="/punchdrunk"],a[href|="/rpunchdrunk"],a[href|="/ts23"],a[href|="/rts23"],a[href|="/tscrazysmile"],a[href|="/rtscrazysmile"],a[href="/dash23"],a[href="/dashwhat"],a[href="/dashwat"],a[href="/dashwut"]{background-position:-140px -210px;}
+a[href|="/d24"],a[href|="/rd24"],a[href|="/st24"],a[href|="/rst24"],a[href|="/c24"],a[href|="/rc24"],a[href|="/joy"],a[href|="/rjoy"],a[href|="/e24"],a[href|="/re24"],a[href|="/dealwithit"],a[href|="/rdealwithit"],a[href|="/ts24"],a[href|="/rts24"],a[href|="/tsunsure"],a[href|="/rtsunsure"]{background-position:-140px -280px;}
+a[href|="/d25"],a[href|="/rd25"],a[href|="/st25"],a[href|="/rst25"],a[href|="/c25"],a[href|="/rc25"],a[href|="/derp"],a[href|="/rderp"],a[href|="/a25"],a[href|="/ra25"],a[href|="/rdsad"],a[href|="/rrdsad"],a[href|="/e25"],a[href|="/re25"],a[href|="/rdsalute"],a[href|="/rrdsalute"],a[href|="/ts25"],a[href|="/rts25"],a[href|="/tscurious"],a[href|="/rtscurious"]{background-position:-140px -350px;}
+a[href|="/d26"],a[href|="/rd26"],a[href|="/st26"],a[href|="/rst26"],a[href|="/c26"],a[href|="/rc26"],a[href|="/derpyshock"],a[href|="/rderpyshock"],a[href|="/e26"],a[href|="/re26"],a[href|="/cheerilee"],a[href|="/rcheerilee"],a[href|="/ts26"],a[href|="/rts26"],a[href|="/tsbashful"],a[href|="/rtsbashful"]{background-position:-140px -420px;}
 a[href="/wat"]{display:block;clear:none;width:200px;height:200px;background-repeat:no-repeat;background-image:url(http://b.thumbs.redditmedia.com/0RYrFbSuc7Cy0k51.png);}
 a[href="/dash00"],a[href="/dash01"],a[href="/dash02"],a[href="/dash10"],a[href="/dash11"],a[href="/dash12"],a[href="/dash20"],a[href="/dash21"],a[href="/dash22"],a[href="/dash23"],a[href="/dash03"],a[href="/dash13"],a[href="/dashbadass"],a[href="/badassdash"],a[href="/scootacute"],a[href="/scootabrag"],a[href="/ovenmitt"],a[href="/jedifilly"],a[href="/fillyjedi"],a[href="/fillydash"],a[href="/bounce"],a[href="/dashjoy"],a[href="/dashbook"],a[href="/reading"],a[href="/coolstorybro"],a[href="/dashmeh"],a[href="/meh"],a[href="/dashponder"],a[href="/dashthinking"],a[href="/dashsmile"],a[href="/smilingdash"],a[href="/cooldash"],a[href="/dealwithitdash"],a[href="/dashhappy"],a[href="/dashlovesyou"],a[href="/dashsurprise"],a[href="/dashomg"],a[href="/omgomgomg"],a[href="/dashwhat"],a[href="/dashwat"],a[href="/dashwut"]{display:block;clear:none;float:left;background-image:url(http://b.thumbs.redditmedia.com/5dxmCCeKZiI8SIIm.png) !important;background-repeat:no-repeat;width:70px;height:70px;}
-a[href="/dash00"],a[href="/scootacute"],a[href="/scootabrag"],a[href="/ovenmitt"]{background-position:0 0;}
-a[href="/dash01"],a[href="/jedifilly"],a[href="/fillyjedi"]{background-position:-70px 0;}
-a[href="/dash02"],a[href="/dashbadass"],a[href="/badassdash"]{background-position:-140px 0;}
-a[href="/dash10"],a[href="/cooldash"],a[href="/dealwithitdash"]{background-position:0 -70px;}
-a[href="/dash11"],a[href="/fillydash"],a[href="/bounce"],a[href="/dashjoy"]{background-position:-70px -70px;}
-a[href="/dash12"],a[href="/dashsmile"],a[href="/smilingdash"]{background-position:-140px -70px;}
-a[href="/dash20"],a[href="/dashponder"],a[href="/dashthinking"]{background-position:0 -140px;}
-a[href="/dash21"],a[href="/dashomg"],a[href="/omgomgomg"]{background-position:-70px -140px;}
-a[href="/dash22"],a[href="/dashbook"],a[href="/reading"],a[href="/coolstorybro"]{background-position:-140px -140px;}
-a[href="/dash03"],a[href="/dashmeh"],a[href="/meh"]{background-position:0 -210px;}
-a[href="/dash13"],a[href="/dashhappy"],a[href="/dashlovesyou"],a[href="/dashsurprise"]{background-position:-70px -210px;}
-a[href="/dash23"],a[href="/dashwhat"],a[href="/dashwat"],a[href="/dashwut"]{background-position:-140px -210px;}
-/* /r/mylittlewarhammer */
+a[href|="/cgtrock"]{display:block;clear:none;float:left;width:100px;height:173px;background-image:url(http://b.thumbs.redditmedia.com/p6KeuTIsHFLSJJs7.png);}
+a[href|="/cgthuzzah"]{display:block;clear:none;float:left;width:200px;height:138px;background-image:url(http://b.thumbs.redditmedia.com/Oi4TSF-u8YotVFsa.png);}
+a[href|="/cgttada"]{display:block;clear:none;float:left;width:114px;height:100px;background-image:url(http://c.thumbs.redditmedia.com/Vb0x3amy78bqz92n.png);}
+a[href|="/cgt00"],a[href|="/cgt01"],a[href|="/cgt02"],a[href|="/cgt03"],a[href|="/cgt04"],a[href|="/cgt05"],a[href|="/cgt06"],a[href|="/cgt07"],a[href|="/cgt08"],a[href|="/cgt09"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://b.thumbs.redditmedia.com/uwj7QFvBfjVFvx-1.png);}
 a[href|="/mlwh01"],a[href|="/heresy"]{background-image:url(http://c.thumbs.redditmedia.com/xGOe5Ghi-9GfuXUb.png);clear:none;display:block;float:left;height:70px;width:70px;}
-/* /r/??? */
 a[href|="/twist"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/tNP-VHWvrJDdtuRK.png);width:139px;height:200px}
 a[href|="/sassy"],a[href|="/sassynfierce"],a[href|="/fierce"],a[href|="/ovensister"],a[href|="/ovenstwinsister"],a[href|="/ovmanstwinsister"]{display:block;background-image:url(http://d.thumbs.redditmedia.com/eDE9-Ybr3toOO3so.png);background-repeat:no-repeat;width:257px;height:518px}
 a[href|="/partydrama"]{display:block;background-image:url(http://b.thumbs.redditmedia.com/PhxUQGvMJ_pDo5Ls.png);background-repeat:no-repeat;width:257px;height:518px}
 a[href|="/ovman"],a[href|="/ovenmitt"]{display:block;background-image:url(http://b.thumbs.redditmedia.com/0mgxk-O3VWACKtB1.png);background-repeat:no-repeat;width:272px;height:386px}
 a[href|="/horrify"]{display:block;background-image:url(http://c.thumbs.redditmedia.com/7h4qwwfNYAWNEmd8.png);background-repeat:no-repeat;width:852px;height:844px}
 a[href|="/bueno"]{display:block;background-image:url(http://d.thumbs.redditmedia.com/k_X9TK02zRTT1xxW.png);background-repeat:no-repeat;width:292px;height:321px}
-a[href|="/yes"],a[href|="/moreyay"],a[href|="/moreyes"]{display:block;background-image:url(http://c.thumbs.redditmedia.com/DQwxKi2dF8Af5oXP.png);background-repeat:no-repeat;width:218px;height:198px}
 a[href|="/sbf"],a[href|="/rsbf"],a[href|="/tevorsbackdoor"],a[href|="/trevorsbackdoor"]{display:block;background-image:url(http://a.thumbs.redditmedia.com/aUNcTPsDXXGEnjd6.png);background-repeat:no-repeat;width:80px;height:66px}
-a[href|="/rsbf"],a[href|="/rcrossfire"]{-moz-transform:scaleX(-1);-webkit-transform:scaleX(-1);-o-transform:scaleX(-1)}
 a[href|="/ppohyou"]{display:block;clear:none;width:92px;height:100px;background-image:url(http://thumbs.reddit.com/t5_2spzv_2.png)}
 a[href|="/raeptime"]{display:block;clear:none;float:left;width:422px;height:473px;background-image:url(http://thumbs.reddit.com/t5_2sy9j_3.png);background-position:0 0}
 a[href|="/drama"]{display:block;clear:none;float:left;width:443px;height:298px;background-image:url(http://thumbs.reddit.com/t5_2sy9j_5.png);background-position:0 0}
-/*== /r/mylittlechaos ==*/
 a[href|="/chaos00"],a[href|="/chaos01"],a[href|="/chaos02"],a[href|="/chaos10"],a[href|="/chaos10e"],a[href|="/chaos11"],a[href|="/chaos12"],a[href|="/sayno"],a[href|="/saynoe"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/DzeuoOHG6Fujg_CA.png)}
 a[href|="/chaos00"]{width:133px;height:150px;background-position:0 0}
 a[href|="/chaos01"]{width:110px;height:150px;background-position:-133px 0}
@@ -2143,7 +1975,6 @@ a[href|="/chaos11"]{width:95px;height:150px;background-position:-145px -150px}
 a[href|="/chaos12"]{width:75px;height:150px;background-position:-240px -150px}
 a[href|="/sayno"]{width:75px;height:75px;background-position:-338px -50px}
 a[href|="/saynoe"]{width:75px;height:125px;background-position:-338px 0}
-/*== txt/formatting effects! ==*/
 a[href|="/white!"]{color:#FFF !important;cursor:text !important;background-color:#000 !important}
 a[href|="/orange!"]{color:orange !important;cursor:text !important}
 a[href|="/green!"]{color:green !important;cursor:text !important}
@@ -2171,7 +2002,6 @@ a[href^="/"][href*="-tahoma!"]{font-family:Tahoma, Geneva, sans-serif}
 a[href|="/tinytxt!"]{font-family:"monospace", "Courier" !important;color:inherit !important;cursor:text !important;font-size:1px !important}
 a[href|="/pinkhover!"]{color:#000 !important;cursor:text !important}
 a:hover[href|="/pinkhover!"]{color:#ef4f91 !important;cursor:text !important}
-/*== CHAOS BEAUTIFUL CHAOS ==*/
 @-moz-keyframes spin { from {-moz-transform: rotate(0deg)scaleX(1)rotateX(0deg)rotateY(0deg)rotateZ(0deg); } to {-moz-transform: rotate(0deg)scaleX(1)rotateX(360deg)rotateY(360deg)rotateZ(360deg); } }
 @-moz-keyframes spin-45 { from {-moz-transform: rotate(45deg)scaleX(1)rotateX(0deg)rotateY(0deg)rotateZ(0deg); } to {-moz-transform: rotate(45deg)scaleX(1)rotateX(360deg)rotateY(360deg)rotateZ(360deg); } }
 @-moz-keyframes spin-90 { from {-moz-transform: rotate(90deg)scaleX(1)rotateX(0deg)rotateY(0deg)rotateZ(0deg); } to {-moz-transform: rotate(90deg)scaleX(1)rotateX(360deg)rotateY(360deg)rotateZ(360deg); } }
@@ -2300,7 +2130,6 @@ a:hover[href|="/pinkhover!"]{color:#ef4f91 !important;cursor:text !important}
 @-webkit-keyframes zspin-225-r { from {-webkit-transform: rotate(225deg)scaleX(-1)rotatez(0deg); } to {-webkit-transform: rotate(225deg)scaleX(-1)rotatez(360deg); } }
 @-webkit-keyframes zspin-270-r { from {-webkit-transform: rotate(270deg)scaleX(-1)rotatez(0deg); } to {-webkit-transform: rotate(270deg)scaleX(-1)rotatez(360deg); } }
 @-webkit-keyframes zspin-315-r { from {-webkit-transform: rotate(315deg)scaleX(-1)rotatez(0deg); } to {-webkit-transform: rotate(315deg)scaleX(-1)rotatez(360deg); } }
-/*== mane ==*/
 a:hover[href^='/'][href*='-r'][href*='-d'] {-moz-transform: rotate(0deg)scaleX(1);-o-transform: rotate(0deg)scaleX(1);-webkit-transform: rotate(0deg)scaleX(1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-45'], a:hover[href^='/'][href*='-45'][href*='-r'][href*='-d'] {-moz-transform: rotate(45deg)scaleX(1);-o-transform: rotate(45deg)scaleX(1);-webkit-transform: rotate(45deg)scaleX(1); }
 a[href^='/'][href*='-90'], a:hover[href^='/'][href*='-90'][href*='-r'][href*='-d'] {-moz-transform: rotate(90deg)scaleX(1);-o-transform: rotate(90deg)scaleX(1);-webkit-transform: rotate(90deg)scaleX(1); image-rendering: -moz-crisp-edges; }
@@ -2309,7 +2138,7 @@ a[href^='/'][href*='-180'], a:hover[href^='/'][href*='-180'][href*='-r'][href*='
 a[href^='/'][href*='-225'], a:hover[href^='/'][href*='-225'][href*='-r'][href*='-d'] {-moz-transform: rotate(225deg)scaleX(1);-webkit-transform: rotate(225deg)scaleX(1);-o-transform: rotate(225deg)scaleX(1); }
 a[href^='/'][href*='-270'], a:hover[href^='/'][href*='-270'][href*='-r'][href*='-d'] {-moz-transform: rotate(270deg)scaleX(1);-o-transform: rotate(270deg)scaleX(1);-webkit-transform: rotate(270deg)scaleX(1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-315'], a:hover[href^='/'][href*='-315'][href*='-r'][href*='-d'] {-moz-transform: rotate(315deg)scaleX(1);-o-transform: rotate(315deg)scaleX(1);-webkit-transform: rotate(315deg)scaleX(1); }
-a[href^='/'][href*='-r'], a:hover[href^='/'][href*='-d'] {-moz-transform: rotate(0deg)scaleX(-1);-o-transform: rotate(0deg)scaleX(-1);-webkit-transform: rotate(0deg)scaleX(-1); image-rendering: -moz-crisp-edges; }
+a[href|="/rsbf"],a[href|="/rcrossfire"],a[href^='/'][href*='-r'], a:hover[href^='/'][href*='-d'] {-moz-transform: rotate(0deg)scaleX(-1);-o-transform: rotate(0deg)scaleX(-1);-webkit-transform: rotate(0deg)scaleX(-1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-45'][href*='-r'], a:hover[href^='/'][href*='-45'][href*='-d'] {-moz-transform: rotate(45deg)scaleX(-1);-o-transform: rotate(45deg)scaleX(-1);-webkit-transform: rotate(45deg)scaleX(-1); }
 a[href^='/'][href*='-90'][href*='-r'], a:hover[href^='/'][href*='-90'][href*='-d'] {-moz-transform: rotate(90deg)scaleX(-1);-o-transform: rotate(90deg)scaleX(-1);-webkit-transform: rotate(90deg)scaleX(-1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-135'][href*='-r'], a:hover[href^='/'][href*='-135'][href*='-d'] {-moz-transform: rotate(135deg)scaleX(-1);-webkit-transform: rotate(135deg)scaleX(-1);-o-transform: rotate(135deg)scaleX(-1); }
@@ -2331,7 +2160,6 @@ a[href^='/'][href*='-f'], a:hover[href^='/'][href*='-f'][href*='-r'][href*='-d']
 a[href^='/'][href*='-45'][href*='-f'], a:hover[href^='/'][href*='-45'][href*='-f'][href*='-r'][href*='-d'] {-moz-transform: rotate(225deg)scaleX(-1);-o-transform: rotate(225deg)scaleX(-1);-webkit-transform: rotate(225deg)scaleX(-1); }
 a[href^='/'][href*='-90'][href*='-f'], a:hover[href^='/'][href*='-90'][href*='-f'][href*='-r'][href*='-d'] {-moz-transform: rotate(270deg)scaleX(-1);-o-transform: rotate(270deg)scaleX(-1);-webkit-transform: rotate(270deg)scaleX(-1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-135'][href*='-f'], a:hover[href^='/'][href*='-135'][href*='-f'][href*='-r'][href*='-d'] {-moz-transform: rotate(315deg)scaleX(-1);-o-transform: rotate(315deg)scaleX(-1);-webkit-transform: rotate(315deg)scaleX(-1); }
-/*== -spin ==*/
 a[href*=-spin], a:hover[href^='/'][href*='-r'][href*='-d'][href*=-spin] {-moz-animation: spin 2s infinite linear;-webkit-animation: spin 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-45'][href*=-spin], a:hover[href^='/'][href*='-45'][href*='-r'][href*='-d'][href*=-spin] {-moz-animation: spin-45 2s infinite linear;-webkit-animation: spin-45 2s infinite linear; }
 a[href^='/'][href*='-90'][href*=-spin], a:hover[href^='/'][href*='-90'][href*='-r'][href*='-d'][href*=-spin] {-moz-animation: spin-90 2s infinite linear;-webkit-animation: spin-90 2s infinite linear; image-rendering: -moz-crisp-edges; }
@@ -2362,7 +2190,6 @@ a[href^='/'][href*='-f'][href*=-spin], a:hover[href^='/'][href*='-f'][href*='-r'
 a[href^='/'][href*='-45'][href*='-f'][href*=-spin], a:hover[href^='/'][href*='-45'][href*='-f'][href*='-r'][href*='-d'][href*=-spin] {-moz-animation: spin-225-r 2s infinite linear;-webkit-animation: spin-225-r 2s infinite linear; }
 a[href^='/'][href*='-90'][href*='-f'][href*=-spin], a:hover[href^='/'][href*='-90'][href*='-f'][href*='-r'][href*='-d'][href*=-spin] {-moz-animation: spin-270-r 2s infinite linear;-webkit-animation: spin-270-r 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-135'][href*='-f'][href*=-spin], a:hover[href^='/'][href*='-135'][href*='-f'][href*='-r'][href*='-d'][href*=-spin] {-moz-animation: spin-315-r 2s infinite linear;-webkit-animation: spin-315-r 2s infinite linear; }
-/*== -xspin ==*/
 a[href*=-xspin], a:hover[href^='/'][href*='-r'][href*='-d'][href*=-xspin] {-moz-animation: xspin 2s infinite linear;-webkit-animation: xspin 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-45'][href*=-xspin], a:hover[href^='/'][href*='-45'][href*='-r'][href*='-d'][href*=-xspin] {-moz-animation: xspin-45 2s infinite linear;-webkit-animation: xspin-45 2s infinite linear; }
 a[href^='/'][href*='-90'][href*=-xspin], a:hover[href^='/'][href*='-90'][href*='-r'][href*='-d'][href*=-xspin] {-moz-animation: xspin-90 2s infinite linear;-webkit-animation: xspin-90 2s infinite linear; image-rendering: -moz-crisp-edges; }
@@ -2393,7 +2220,6 @@ a[href^='/'][href*='-f'][href*=-xspin], a:hover[href^='/'][href*='-f'][href*='-r
 a[href^='/'][href*='-45'][href*='-f'][href*=-xspin], a:hover[href^='/'][href*='-45'][href*='-f'][href*='-r'][href*='-d'][href*=-xspin] {-moz-animation: xspin-225-r 2s infinite linear;-webkit-animation: xspin-225-r 2s infinite linear; }
 a[href^='/'][href*='-90'][href*='-f'][href*=-xspin], a:hover[href^='/'][href*='-90'][href*='-f'][href*='-r'][href*='-d'][href*=-xspin] {-moz-animation: xspin-270-r 2s infinite linear;-webkit-animation: xspin-270-r 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-135'][href*='-f'][href*=-xspin], a:hover[href^='/'][href*='-135'][href*='-f'][href*='-r'][href*='-d'][href*=-xspin] {-moz-animation: xspin-315-r 2s infinite linear;-webkit-animation: xspin-315-r 2s infinite linear; }
-/*== -yspin ==*/
 a[href*=-yspin], a:hover[href^='/'][href*='-r'][href*='-d'][href*=-yspin] {-moz-animation: yspin 2s infinite linear;-webkit-animation: yspin 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-45'][href*=-yspin], a:hover[href^='/'][href*='-45'][href*='-r'][href*='-d'][href*=-yspin] {-moz-animation: yspin-45 2s infinite linear;-webkit-animation: yspin-45 2s infinite linear; }
 a[href^='/'][href*='-90'][href*=-yspin], a:hover[href^='/'][href*='-90'][href*='-r'][href*='-d'][href*=-yspin] {-moz-animation: yspin-90 2s infinite linear;-webkit-animation: yspin-90 2s infinite linear; image-rendering: -moz-crisp-edges; }
@@ -2424,7 +2250,6 @@ a[href^='/'][href*='-f'][href*=-yspin], a:hover[href^='/'][href*='-f'][href*='-r
 a[href^='/'][href*='-45'][href*='-f'][href*=-yspin], a:hover[href^='/'][href*='-45'][href*='-f'][href*='-r'][href*='-d'][href*=-yspin] {-moz-animation: yspin-225-r 2s infinite linear;-webkit-animation: yspin-225-r 2s infinite linear; }
 a[href^='/'][href*='-90'][href*='-f'][href*=-yspin], a:hover[href^='/'][href*='-90'][href*='-f'][href*='-r'][href*='-d'][href*=-yspin] {-moz-animation: yspin-270-r 2s infinite linear;-webkit-animation: yspin-270-r 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-135'][href*='-f'][href*=-yspin], a:hover[href^='/'][href*='-135'][href*='-f'][href*='-r'][href*='-d'][href*=-yspin] {-moz-animation: yspin-315-r 2s infinite linear;-webkit-animation: yspin-315-r 2s infinite linear; }
-/*== -zspin ==*/
 a[href*=-zspin], a:hover[href^='/'][href*='-r'][href*='-d'][href*=-zspin] {-moz-animation: zspin 2s infinite linear;-webkit-animation: zspin 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-45'][href*=-zspin], a:hover[href^='/'][href*='-45'][href*='-r'][href*='-d'][href*=-zspin] {-moz-animation: zspin-45 2s infinite linear;-webkit-animation: zspin-45 2s infinite linear; }
 a[href^='/'][href*='-90'][href*=-zspin], a:hover[href^='/'][href*='-90'][href*='-r'][href*='-d'][href*=-zspin] {-moz-animation: zspin-90 2s infinite linear;-webkit-animation: zspin-90 2s infinite linear; image-rendering: -moz-crisp-edges; }
@@ -2455,7 +2280,6 @@ a[href^='/'][href*='-f'][href*=-zspin], a:hover[href^='/'][href*='-f'][href*='-r
 a[href^='/'][href*='-45'][href*='-f'][href*=-zspin], a:hover[href^='/'][href*='-45'][href*='-f'][href*='-r'][href*='-d'][href*=-zspin] {-moz-animation: zspin-225-r 2s infinite linear;-webkit-animation: zspin-225-r 2s infinite linear; }
 a[href^='/'][href*='-90'][href*='-f'][href*=-zspin], a:hover[href^='/'][href*='-90'][href*='-f'][href*='-r'][href*='-d'][href*=-zspin] {-moz-animation: zspin-270-r 2s infinite linear;-webkit-animation: zspin-270-r 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href^='/'][href*='-135'][href*='-f'][href*=-zspin], a:hover[href^='/'][href*='-135'][href*='-f'][href*='-r'][href*='-d'][href*=-zspin] {-moz-animation: zspin-315-r 2s infinite linear;-webkit-animation: zspin-315-r 2s infinite linear; }
-/*==legacy ==*/
 a:hover[href^='/'][href$='-rd'] {-moz-transform: rotate(0deg)scaleX(1);-o-transform: rotate(0deg)scaleX(1);-webkit-transform: rotate(0deg)scaleX(1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href$='-90d'], a:hover[href^='/'][href$='-90rd'] {-moz-transform: rotate(90deg)scaleX(1);-o-transform: rotate(90deg)scaleX(1);-webkit-transform: rotate(90deg)scaleX(1); image-rendering: -moz-crisp-edges; }
 a[href^='/'][href$='-180d'], a:hover[href^='/'][href$='-fd'] {-moz-transform: rotate(180deg)scaleX(1);-o-transform: rotate(180deg)scaleX(1);-webkit-transform: rotate(180deg)scaleX(1); image-rendering: -moz-crisp-edges; }
@@ -2467,13 +2291,11 @@ a[href^='/'][href$='-270r'], a[href^='/'][href$='-270rd'], a:hover[href^='/'][hr
 a[href*=-ispin] {-moz-animation: spin 2s infinite linear;-webkit-animation: spin 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href*=-rotate], a[href*=-lrotate] {-moz-animation: zspin 2s infinite linear;-webkit-animation: zspin 2s infinite linear; image-rendering: -moz-crisp-edges; }
 a[href*=-rrotate], a[href*=-lrrotate] {-moz-animation: zspin-r 2s infinite linear;-webkit-animation: zspin-r 2s infinite linear; image-rendering: -moz-crisp-edges; }
-/* Misc. fixes and flags */
 .md{overflow-y:hidden !important}
 a[href^="/"][href*="-inp"]{float: none !important;display: inline-block !important}
 a[href^="/"][href*="-ar"]{float: right !important}
 a[href="/sp"]{display:inline-block;padding-right:100%}
 }
-
 @-moz-document url-prefix("http://www.reddit.com/r/mylittlepony/"), url-prefix("http://www.reddit.com/r/MLPLounge/") {
 .id-t2_6buv7~.flair-twilight{background-image:url(http://i.imgur.com/wd0Zn.png)!important}
 }
