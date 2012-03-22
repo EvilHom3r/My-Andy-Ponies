@@ -1,4 +1,4 @@
-/* Version 3.8 (Mar 7) */
+/* Version 3.9 (Mar 21) */
 /* Please report any problems or missing emotes/subreddits to http://www.reddit.com/message/compose/?to=EvilHom3r */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document url-prefix("http://www.reddit.com"), url-prefix("https://www.reddit.com") {
@@ -1703,6 +1703,16 @@ a[href|="/tut"]{background-position:-150px -100px;width:75px;height:100px}
 a[href|="/alexander"]{background-position:-225px -100px;width:75px;height:100px}
 a[href|="/tesla"]{background-position:0 -200px;width:75px;height:100px}
 
+a[href|="/hellolyra"],a[href|="/liera"],a[href|="/lyraawesome"],a[href|="/lyrafacehoof"],a[href|="/lyrahappy"],a[href|="/lyrahat"],a[href|="/lyrashock"],a[href|="/lyrasit"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/ilbROTHwaV_JRDGG.png)}
+a[href|="/hellolyra"]{width:196px;height:150px;background-position:-2px -154px}
+a[href|="/liera"]{width:171px;height:150px;background-position:-200px -154px}
+a[href|="/lyraawesome"]{width:70px;height:100px;background-position:-2px -2px}
+a[href|="/lyrafacehoof"]{width:96px;height:100px;background-position:-74px -2px}
+a[href|="/lyrahappy"]{width:164px;height:180px;background-position:-2px -306px}
+a[href|="/lyrahat"]{width:94px;height:150px;background-position:-373px -2px}
+a[href|="/lyrashock"]{width:122px;height:150px;background-position:-249px -2px}
+a[href|="/lyrasit"]{width:75px;height:125px;background-position:-172px -2px}
+
 a[href|="/damoneyes"],a[href|="/damonflip"],a[href|="/damonfun"],a[href|="/damonnannersspiders"],a[href|="/damonplot"],a[href|="/damonsalute"],a[href|="/damonstop"],a[href|="/damonwithit"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/T1WNIh53sRcVlJhY.png)}
 a[href|="/damoneyes"]{width:168px;height:250px;background-position:-2px -2px}
 a[href|="/damonflip"]{width:253px;height:200px;background-position:-172px -2px}
@@ -1835,6 +1845,7 @@ a[href|="/bueno"]{display:block;background-image:url(http://d.thumbs.redditmedia
 a[href|="/sbf"],a[href|="/rsbf"],a[href|="/tevorsbackdoor"],a[href|="/trevorsbackdoor"]{display:block;background-image:url(http://a.thumbs.redditmedia.com/aUNcTPsDXXGEnjd6.png);background-repeat:no-repeat;width:80px;height:66px}
 a[href|="/raeptime"]{display:block;clear:none;float:left;width:422px;height:473px;background-image:url(http://thumbs.reddit.com/t5_2sy9j_3.png);background-position:0 0}
 a[href|="/drama"]{display:block;clear:none;float:left;width:443px;height:298px;background-image:url(http://thumbs.reddit.com/t5_2sy9j_5.png);background-position:0 0}
+
 a[href|="/chaos00"],a[href|="/chaos01"],a[href|="/chaos02"],a[href|="/chaos10"],a[href|="/chaos10e"],a[href|="/chaos11"],a[href|="/chaos12"],a[href|="/sayno"],a[href|="/saynoe"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/DzeuoOHG6Fujg_CA.png)}
 a[href|="/chaos00"]{width:133px;height:150px;background-position:0 0}
 a[href|="/chaos01"]{width:110px;height:150px;background-position:-133px 0}
@@ -1845,6 +1856,7 @@ a[href|="/chaos11"]{width:95px;height:150px;background-position:-145px -150px}
 a[href|="/chaos12"]{width:75px;height:150px;background-position:-240px -150px}
 a[href|="/sayno"]{width:75px;height:75px;background-position:-338px -50px}
 a[href|="/saynoe"]{width:75px;height:125px;background-position:-338px 0}
+
 a[href="//#advicepbb"],a[href="//#advicecmc"],a[href="//#advicedash"],a[href="//#advicederp"],a[href="//#advicegummy"],a[href="//#advicehoers"],a[href="//#adviceluna"],a[href="//#adviceoct"],a[href="//#advicepinkamina"],a[href="//#advicescoot"],a[href="//#advicescratch"],a[href="//#advicescrew"],a[href="//#adviceshy"]{width:300px !important;height:300px !important;cursor:default !important;display:inline-block !important;background-image:url(http://f.thumbs.redditmedia.com/CRUrOZBk1L-y-b7k.png) !important;background-repeat:no-repeat !important;text-align:center !important;color:#FFF !important;font-family:Impact, sans-serif !important;font-size:25px !important;line-height:24px !important;text-shadow:1px 1px 1px black, -1px -1px 1px black, -1px 1px 1px black, 1px -1px 1px #000 !important;overflow:hidden !important;position:relative !important;text-transform:uppercase !important;}
 a[href="//#advicehoers"]{width:300px;height:300px;background-position:-606px -304px;}
 a[href="//#adviceluna"]{width:300px;height:300px;background-position:-2px -606px;}
@@ -1862,6 +1874,7 @@ a[href="//#advicederp"],a[href="//#advicetia"]{width:300px;height:300px;backgrou
 a[href="//#advicegummy"],a[href="//#philosopie"]{width:300px;height:300px;background-position:-304px -304px;}
 a[href="//#advicepbb"] em,a[href="//#advicecmc"] em,a[href="//#advicedash"] em,a[href="//#advicederp"] em,a[href="//#advicegummy"] em,a[href="//#advicehoers"] em,a[href="//#adviceluna"] em,a[href="//#adviceoct"] em,a[href="//#advicepinkamina"] em,a[href="//#advicescoot"] em,a[href="//#advicescratch"] em,a[href="//#advicescrew"] em,a[href="//#adviceshy"] em,a[href="//#adviceaajlie"] em,a[href="//#adviceberry"] em,a[href="//#advicetia"] em,a[href="//#philosopie"] em,a[href="//#advicepp"] em{font-style:normal !important;position:absolute !important;top:12px !important;width:280px !important;left:50% !important;margin-left:-140px !important;}
 a[href="//#advicepbb"] strong,a[href="//#advicecmc"] strong,a[href="//#advicedash"] strong,a[href="//#advicederp"] strong,a[href="//#advicegummy"] strong,a[href="//#advicehoers"] strong,a[href="//#adviceluna"] strong,a[href="//#adviceoct"] strong,a[href="//#advicepinkamina"] strong,a[href="//#advicescoot"] strong,a[href="//#advicescratch"] strong,a[href="//#advicescrew"] strong,a[href="//#adviceshy"] strong,a[href="//#adviceajlie"] strong,a[href="//#adviceberry"] strong,a[href="//#advicetia"] strong,a[href="//#philosopie"] strong,a[href="//#advicepp"] strong{font-weight:400 !important;position:absolute !important;bottom:12px !important;width:280px !important;left:50% !important;margin-left:-140px !important;}
+
 a[href|="/white!"]{color:#FFF !important;cursor:text !important;background-color:#000 !important}
 a[href|="/orange!"]{color:orange !important;cursor:text !important}
 a[href|="/green!"]{color:green !important;cursor:text !important}
