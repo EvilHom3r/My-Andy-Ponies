@@ -1,7 +1,7 @@
-/* Version 4.0.1 (Apr 4) */
+/* Version 4.1 (Apr 10) */
 /* Please report any problems or missing emotes/subreddits to http://www.reddit.com/message/compose/?to=EvilHom3r */
 @namespace url(http://www.w3.org/1999/xhtml);
-@-moz-document url-prefix("http://www.reddit.com"), url-prefix("https://www.reddit.com") {
+@-moz-document domain("www.reddit.com"), domain("reddit.com") {
 a[href|="/today"]{display:block;clear:none;float:left;background-image:url(http://d.thumbs.redditmedia.com/dN7SE1I0H0ul7jP-.png);width:500px;height:270px}
 a[href|="/hoppy"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/yncP92ucLKCxJ1t_.png);width:105px;height:157px}
 a[href|="/imamakethisanemoterealquick"]{display:block;clear:none;float:left;background-image:url(http://e.thumbs.redditmedia.com/reUrhLuICVFtwobp.png);width:456px;height:304px}
