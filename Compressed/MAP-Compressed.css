@@ -878,6 +878,9 @@ a[href|='/surtoot'] {width:164px; height:150px; background-position: -617px -277
 a[href|='/surumad'] {width:250px; height:182px; background-position: -271px -2px}
 a[href|='/surwat'] {width:144px; height:150px; background-position: -120px -435px}
 a[href|='/surwhatisaid'] {width:175px; height:175px; background-position: -523px -2px}
+a[href|="/surwink"]{width:72px;height:70px}
+a[href|="/surwink"],a[href|="/surwinkbig"]{display:block;clear:none;float:left;background-image:url(http://f.thumbs.redditmedia.com/winjdjbvQ81aAD1e.png)}
+a[href|="/surwinkbig"]{width:131px;height:122px;background-position:-72px 0}
 
 a[href|="/scratchshrug"],a[href|="/tavishrug"]{display:block;clear:none;float:left;width:70px;height:70px;background-image:url(http://f.thumbs.redditmedia.com/lCi267EgdCSOFW_q.png)}
 
