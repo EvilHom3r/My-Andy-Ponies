@@ -656,7 +656,7 @@ a[href|="/twipoker"]{width:118px;height:110px;background-position:-416px -660px}
 a[href|="/umyeah"]{width:76px;height:100px;background-position:-536px -660px}
 a[href|="/whyhello"]{width:121px;height:100px;background-position:-614px -660px}
 a[href|="/zoidberg"],a[href|="/rzoidberg"]{width:70px;height:69px;background-position:-737px -660px}
-a[href|="/5ofclubs"],a[href|="/bonsing"],a[href|="/derpsess"],a[href|="/lunasalute"],a[href|="/lyplay"],a[href|="/lyrawithit"],a[href|="/ootdluna"],a[href|="/parrrtycannon"],a[href|="/piplean"],a[href|="/ppjam"],a[href|="/ppsalute"],a[href|="/ppshock"],a[href|="/pudding"],a[href|="/r2a"],a[href|="/royalpain"],a[href|="/shyrose"],a[href|="/shystrut"],a[href|="/sursalute"],a[href|="/sursprisesalute"],a[href|="/this"],a[href|="/trix1"]{display:block;clear:none;float:left;background-image:url(http://b.thumbs.redditmedia.com/LxzHhnJr-rZAeIbU.png)}
+a[href|="/5ofclubs"],a[href|="/bonsing"],a[href|="/derpsess"],a[href|="/lunasalute"],a[href|="/lyplay"],a[href|="/lyrawithit"],a[href|="/ootdluna"],a[href|="/parrrtycannon"],a[href|="/piplean"],a[href|="/ppjam"],a[href|="/ppsalute"],a[href|="/ppshock"],a[href|="/ppshocked"],a[href|="/pudding"],a[href|="/r2a"],a[href|="/royalpain"],a[href|="/shyrose"],a[href|="/shystrut"],a[href|="/sursalute"],a[href|="/sursprisesalute"],a[href|="/this"],a[href|="/trix1"]{display:block;clear:none;float:left;background-image:url(http://b.thumbs.redditmedia.com/LxzHhnJr-rZAeIbU.png)}
 a[href|="/5ofclubs"]{width:174px;height:175px;background-position:-2px -2px}
 a[href|="/bonsing"]{width:127px;height:151px;background-position:-178px -2px}
 a[href|="/derpsess"]{width:167px;height:200px;background-position:-307px -2px}
@@ -668,7 +668,7 @@ a[href|="/parrrtycannon"]{width:133px;height:175px;background-position:-372px -2
 a[href|="/piplean"]{width:196px;height:167px;background-position:-507px -207px}
 a[href|="/ppjam"]{width:203px;height:200px;background-position:-705px -207px}
 a[href|="/ppsalute"]{width:187px;height:150px;background-position:-2px -477px}
-a[href|="/ppshock"]{width:250px;height:168px;background-position:-191px -477px}
+a[href|="/ppshock"],a[href|="/ppshocked"]{width:250px;height:168px;background-position:-191px -477px}
 a[href|="/pudding"]{width:112px;height:154px;background-position:-443px -477px}
 a[href|="/r2a"]{width:163px;height:153px;background-position:-557px -477px}
 a[href|="/royalpain"]{width:203px;height:175px;background-position:-722px -477px}
@@ -1453,7 +1453,7 @@ a[href|="/twiscare"],a[href|="/rtwiscare"]{background-position:-640px -384px}
 a[href|="/pillzhere"],a[href|="/rpillzhere"]{background-position:-768px 0}
 a[href|="/datplot"],a[href|="/rdatplot"]{background-position:-768px -128px}
 
-a[href|="/damonwhat"],a[href|="/damoncorn"],a[href|="/damonshrug"],a[href|="/twiflap"],a[href|="/twitwitch"],a[href|="/ppexcited"],a[href|="/andyisanasshat"],a[href|="/ajchew"],a[href|="/twiexcited"],a[href|="/twilightsparkle"],a[href|="/raritwitch"],a[href|="/pphugs"],a[href|="/spikewoo"],a[href|="/derpydance"],a[href|="/rimshot"],a[href|="/twirun"],a[href|="/lickiepie"],a[href|="/derpslide"],a[href|="/pomf"],a[href|="/twiderp"],a[href|="/giggle"],a[href|="/heyyeah"],a[href|="/pptwitcha"],a[href|="/fswb"],a[href|="/twipeck"],a[href|="/lbspin"],a[href|="/ajready"],a[href|="/twihorror"],a[href|="/ajlol"],a[href|="/octcake"]{display:block;clear:none;float:left;margin-left:3px;margin-right:3px}
+a[href|="/damonwhat"],a[href|="/damoncorn"],a[href|="/damonshrug"],a[href|="/twiflap"],a[href|="/twitwitch"],a[href|="/ppexcited"],a[href|="/andyisanasshat"],a[href|="/ajchew"],a[href|="/twiexcited"],a[href|="/twilightsparkle"],a[href|="/raritwitch"],a[href|="/pphugs"],a[href|="/spikewoo"],a[href|="/derpydance"],a[href|="/rimshot"],a[href|="/twirun"],a[href|="/lickiepie"],a[href|="/derpslide"],a[href|="/pomf"],a[href|="/twiderp"],a[href|="/giggle"],a[href|="/heyyeah"],a[href|="/pptwitcha"],a[href|="/fswb"],a[href|="/twipeck"],a[href|="/lbspin"],a[href|="/ajready"],a[href|="/twihorror"],a[href|="/ajlol"],a[href|="/octcake"],a[href|="/pprage"]{display:block;clear:none;float:left;margin-left:3px;margin-right:3px}
 a[href|="/twiflap"]{width:132px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/V6TdoeTKrFPSBjlL.png)}
 a[href|="/twitwitch"]{width:122px;height:150px;background-image:url(http://e.thumbs.redditmedia.com/338-FevkfSq5Hn-d.png)}
 a[href|="/ppexcited"],a[href|="/andyisanasshat"]{width:119px;height:150px;background-image:url(http://a.thumbs.redditmedia.com/HmujMG3EgOuxYDtN.png)}
@@ -1479,6 +1479,7 @@ a[href|="/ajready"]{width:118px;height:120px;background-image:url(http://e.thumb
 a[href|="/twihorror"]{width:171px;height:175px;background-image:url(http://f.thumbs.redditmedia.com/49mGMFqdpTe_-bLY.png);}
 a[href|="/ajlol"]{width:156px;height:175px;background-image:url(http://d.thumbs.redditmedia.com/xkP0rhw12lG1H6QQ.png);}
 a[href|="/octcake"]{width:150px;height:200px;background-image:url(http://b.thumbs.redditmedia.com/Wo8GACMOwWutYTRU.png)}
+a[href|="/pprage"]{width:368px;height:200px;background-image:url(http://a.thumbs.redditmedia.com/iWdDfA389r5vAHAl.png)}
 
 a[href|="/blockjuice"]{display:block;clear:none;float:left;width:526px;height:380px;background-image:url(http://e.thumbs.redditmedia.com/hlrAgE8sTtVYdE8X.png)}
 a[href|="/ppohu"]{display:block;clear:none;float:left;width:150px;height:147px;background-image:url(http://b.thumbs.redditmedia.com/Pm3nkna3kZVhpZhs.png)}
