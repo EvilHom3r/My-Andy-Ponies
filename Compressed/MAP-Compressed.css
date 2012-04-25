@@ -1,4 +1,4 @@
-/* Version 4.3 (Apr 25) */
+/* Version 4.3.1 (Apr 25) */
 /* Please report any problems or missing emotes/subreddits to http://www.reddit.com/message/compose/?to=EvilHom3r */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("www.reddit.com"), domain("reddit.com") {
@@ -126,14 +126,14 @@ a[href|="/surnope"]{width:195px;height:256px;background-position:-206px -622px}
 a[href|="/twirobe"]{width:172px;height:156px;background-position:0 -706px}
 a[href|="/vsguitar"]{width:101px;height:156px;background-position:-302px -1115px}
 a[href|="/yourhorn"]{width:206px;height:120px;background-position:0 -586px}
-a[href|="/ajcute"],a[href|="/ajsmile"],a[href|="/ajsmug"],a[href|="/bonbonlyra"],a[href|="/bonbonlyra2"],a[href|="/cake"],a[href|="/carrotfun"],a[href|="/carrottopfun"],a[href|="/cerealpie"],a[href|="/crossfire"],a[href|="/dashwithit"],a[href|="/dramaqueen"],a[href|="/eng"],a[href|="/flunam"],a[href|="/flutterdash"],a[href|="/gummy"],a[href|="/heavy"],a[href|="/lunam"],a[href|="/lush"],a[href|="/lyou"],a[href|="/pinkwithit"],a[href|="/ppfly"],a[href|="/ppforever"],a[href|="/ppfrown"],a[href|="/ppmoney"],a[href|="/ppstache"],a[href|="/pptoot"],a[href|="/rcerealpie"],a[href|="/rdsax"],a[href|="/rdwhat"],a[href|="/sbevil"],a[href|="/twiflip"],a[href|="/twitrix"],a[href|="/w40"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/KTO2hH2v4Pm7JmNJ.png)}
+a[href|="/ajcute"],a[href|="/ajsmile"],a[href|="/ajsmug"],a[href|="/bonbonlyra"],a[href|="/bonbonlyra2"],a[href|="/cake"],a[href|="/carrotfun"],a[href|="/carrottopfun"],a[href|="/cerealpie"],a[href|="/crossfire"],a[href|="/rcrossfire"],a[href|="/dashwithit"],a[href|="/dramaqueen"],a[href|="/eng"],a[href|="/flunam"],a[href|="/flutterdash"],a[href|="/gummy"],a[href|="/heavy"],a[href|="/lunam"],a[href|="/lush"],a[href|="/lyou"],a[href|="/pinkwithit"],a[href|="/ppfly"],a[href|="/ppforever"],a[href|="/ppfrown"],a[href|="/ppmoney"],a[href|="/ppstache"],a[href|="/pptoot"],a[href|="/rcerealpie"],a[href|="/rdsax"],a[href|="/rdwhat"],a[href|="/sbevil"],a[href|="/twiflip"],a[href|="/twitrix"],a[href|="/w40"]{display:block;clear:none;float:left;background-image:url(http://c.thumbs.redditmedia.com/KTO2hH2v4Pm7JmNJ.png)}
 a[href|="/ajcute"]{width:91px;height:81px;background-position:-171px -743px}
 a[href|="/ajsmile"]{width:83px;height:121px;background-position:-429px -632px}
 a[href|="/ajsmug"]{width:125px;height:155px;background-position:-261px -884px}
 a[href|="/bonbonlyra"]{width:126px;height:109px;background-position:0 -874px}
 a[href|="/bonbonlyra2"]{width:116px;height:122px;background-position:-386px -1034px}
 a[href|="/cake"]{width:107px;height:131px;background-position:0 -1089px}
-a[href|="/crossfire"]{width:186px;height:131px;background-position:-265px -501px}
+a[href|="/crossfire"],a[href|="/rcrossfire"]{width:186px;height:131px;background-position:-265px -501px}
 a[href|="/dashwithit"]{width:269px;height:269px}
 a[href|="/dramaqueen"]{width:152px;height:105px;background-position:-262px -779px}
 a[href|="/eng"]{width:46px;height:76px;background-position:-451px -501px}
