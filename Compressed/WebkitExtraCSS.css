@@ -326,4 +326,6 @@ a[href^='/'][href$='-270r'],a[href^='/'][href$='-270rd'],a:hover[href^='/'][href
 a[href*=-ispin]{-webkit-animation:spin 2s infinite linear}
 a[href*=-rotate],a[href*=-lrotate]{-webkit-animation:zspin 2s infinite linear}
 a[href*=-rrotate],a[href*=-lrrotate]{-webkit-animation:znips 2s infinite linear}
+
+.md{overflow-y:hidden !important}
 }

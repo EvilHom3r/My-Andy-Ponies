@@ -2269,7 +2269,6 @@ a[href|="/tinytxt!"]{font-family:"monospace", "Courier" !important;color:inherit
 a[href|="/pinkhover!"]{color:#000 !important;cursor:text !important}
 a:hover[href|="/pinkhover!"]{color:#ef4f91 !important;cursor:text !important}
 
-.md{overflow-y:hidden !important}
 a[href^="/"][href*="-in-"],a[href^="/"][href$="-in"],a[href^="/"][href*="-inp-"],a[href^="/"][href$="-inp"]{float:none !important;display:inline-block !important}
 a[href^="/"][href*="-ar-"],a[href^="/"][href$="-ar"]{float: right !important}
 a[href="/sp"]{display:inline-block;padding-right:100%}
