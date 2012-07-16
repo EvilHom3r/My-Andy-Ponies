@@ -1632,6 +1632,58 @@ a[href|="/pinkeyes"]{background-position:-100px -347px;width:100px;height:100px}
 a[href|="/lpwet"]{background-position:-200px -348px;width:95px;height:150px}
 a[href|="/mmdash"]{background-position:0 -380px;width:64px;height:151px}
 
+a[href|="/rrsunamused"],a[href|="/rsunamused"],a[href|="/rrshappy"],a[href|="/rshappy"],a[href|="/rrsangry"],a[href|="/rsangry"],a[href|="/rrshorrified"],a[href|="/rshorrified"],a[href|="/rssalute"],a[href|="/rrssalute"],a[href|="/rsyay"],a[href|="/rrsyay"],a[href|="/rscoffee"],a[href|="/rrscoffee"],a[href|="/rssad"],a[href|="/rrssad"]{display:block;background-repeat:no-repeat;background-image:url(http://e.thumbs.redditmedia.com/W1sGcuky8w0YrRsF.png);clear:none;float:left}
+a[href|="/rrsunamused"]{width:60px;height:78px}
+a[href|="/rsunamused"]{width:60px;height:78px;background-position:-60px 0}
+a[href|="/rrshappy"]{width:66px;height:78px;background-position:-120px 0}
+a[href|="/rshappy"]{width:66px;height:78px;background-position:-186px 0}
+a[href|="/rrsangry"]{width:126px;height:79px;background-position:0 -78px}
+a[href|="/rsangry"]{width:126px;height:79px;background-position:-126px -78px}
+a[href|="/rrshorrified"]{width:64px;height:80px;background-position:-252px 0}
+a[href|="/rshorrified"]{width:64px;height:80px;background-position:-316px 0}
+a[href|="/rssalute"]{width:95px;height:80px;background-position:-252px -80px}
+a[href|="/rrssalute"]{width:95px;height:80px;background-position:-380px 0}
+a[href|="/rsyay"]{width:90px;height:90px;background-position:0 -157px}
+a[href|="/rrsyay"]{width:90px;height:90px;background-position:-90px -157px}
+a[href|="/rscoffee"]{width:94px;height:120px;background-position:-180px -161px}
+a[href|="/rrscoffee"]{width:94px;height:120px;background-position:-274px -161px}
+a[href|="/rssad"]{width:109px;height:120px;background-position:-368px -80px}
+a[href|="/rrssad"]{width:109px;height:120px;background-position:-477px -80px}
+a[href|="/noroi"]{width:50px;height:50px;display:inline-block;float:none;clear:none;background-color:red}
+a[href="/greentext"]{color:#90EE90 !important}
+a[href|="/10x0"]{width:10px;clear:none;float:none;display:inline-block}
+a[href|="/0x10"]{width:1px;height:10px;clear:none;float:none;display:block}
+
+a[href|="/dashiesqueal"]{display:block;clear:none;float:left;width:143px;height:130px;background-image:url(http://d.thumbs.redditmedia.com/sIxQnyjvaMD1pbm9.png)}
+a[href|="/vx00"],a[href|="/dashiestrut"],a[href|="/vx01"],a[href|="/dashiepose"],a[href|="/vx02"],a[href|="/dashiebucket"],a[href|="/vx10"],a[href|="/dashiefacehoof"],a[href|="/vx11"],a[href|="/dashieswag"],a[href|="/vx12"],a[href|="/dashierage"],a[href|="/vx20"],a[href|="/dashiechef"],a[href|="/vx21"],a[href|="/dashiepie"],a[href|="/vx22"],a[href|="/dashiegala"],a[href|="/vx30"],a[href|="/dashiecunning"],a[href|="/vx31"],a[href|="/dashiebunny"],a[href|="/vx32"],a[href|="/rainbowpie"],a[href|="/vx40"],a[href|="/dashiewhat"],a[href|="/vx41"],a[href|="/dashiepissed"],a[href|="/vx42"],a[href|="/dashiesmile"],a[href|="/vx50"],a[href|="/dashiefilly"],a[href|="/vx51"],a[href|="/dashieyou"],a[href|="/vx52"],a[href|="/dashiehug"],a[href|="/vx60"],a[href|="/dashiegrin"],a[href|="/vx61"],a[href|="/dashietail"],a[href|="/vx62"],a[href|="/dashiepose2"]{display:block;clear:none;float:left;height:130px;background-image:url(http://e.thumbs.redditmedia.com/aLVY6KhlRIt2cMI4.png)}
+a[href|="/rvx00"],a[href|="/rdashiestrut"],a[href|="/rvx01"],a[href|="/rdashiepose"],a[href|="/rvx02"],a[href|="/rdashiebucket"],a[href|="/rvx10"],a[href|="/rdashiefacehoof"],a[href|="/rvx11"],a[href|="/rdashieswag"],a[href|="/rvx12"],a[href|="/rdashierage"],a[href|="/rvx20"],a[href|="/rdashiechef"],a[href|="/rvx21"],a[href|="/rdashiepie"],a[href|="/rvx22"],a[href|="/rdashiegala"],a[href|="/rvx30"],a[href|="/rdashiecunning"],a[href|="/rvx31"],a[href|="/rdashiebunny"],a[href|="/rvx32"],a[href|="/rrainbowpie"],a[href|="/rvx40"],a[href|="/rdashiewhat"],a[href|="/rvx41"],a[href|="/rdashiepissed"],a[href|="/rvx42"],a[href|="/rdashiesmile"],a[href|="/rvx50"],a[href|="/rdashiefilly"],a[href|="/rvx51"],a[href|="/rdashieyou"],a[href|="/rvx52"],a[href|="/rdashiehug"],a[href|="/rvx60"],a[href|="/rdashiegrin"],a[href|="/rvx61"],a[href|="/rdashietail"],a[href|="/rvx62"],a[href|="/rdashiepose2"]{display:block;clear:none;float:left;height:130px;background-image:url(http://b.thumbs.redditmedia.com/IGUgHinzNAD1l5eg.png)}
+a[href|="/vx00"],a[href|="/dashiestrut"],a[href|="/rvx00"],a[href|="/rdashiestrut"]{width:161px}
+a[href|="/vx01"],a[href|="/dashiepose"],a[href|="/rvx01"],a[href|="/rdashiepose"]{width:112px;background-position:-161px 0}
+a[href|="/vx02"],a[href|="/dashiebucket"],a[href|="/rvx02"],a[href|="/rdashiebucket"]{width:109px;background-position:-273px 0}
+a[href|="/vx10"],a[href|="/dashiefacehoof"],a[href|="/rvx10"],a[href|="/rdashiefacehoof"]{width:137px;background-position:-382px 0}
+a[href|="/vx11"],a[href|="/dashieswag"],a[href|="/rvx11"],a[href|="/rdashieswag"]{width:124px;background-position:-519px 0}
+a[href|="/vx12"],a[href|="/dashierage"],a[href|="/rvx12"],a[href|="/rdashierage"]{width:110px;background-position:-643px 0}
+a[href|="/vx20"],a[href|="/dashiechef"],a[href|="/rvx20"],a[href|="/rdashiechef"]{width:112px;background-position:-753px 0}
+a[href|="/vx21"],a[href|="/dashiepie"],a[href|="/rvx21"],a[href|="/rdashiepie"]{width:134px;background-position:-865px 0}
+a[href|="/vx22"],a[href|="/dashiegala"],a[href|="/rvx22"],a[href|="/rdashiegala"]{width:89px;background-position:-999px 0}
+a[href|="/vx30"],a[href|="/dashiecunning"],a[href|="/rvx30"],a[href|="/rdashiecunning"]{width:90px;background-position:-1089px 0}
+a[href|="/vx31"],a[href|="/dashiebunny"],a[href|="/rvx31"],a[href|="/rdashiebunny"]{width:93px;background-position:-1182px 0}
+a[href|="/vx32"],a[href|="/rainbowpie"],a[href|="/rvx32"],a[href|="/rrainbowpie"]{width:156px;background-position:-1275px 0}
+a[href|="/vx40"],a[href|="/dashiewhat"],a[href|="/rvx40"],a[href|="/rdashiewhat"]{width:109px;background-position:-1433px 0}
+a[href|="/vx41"],a[href|="/dashiepissed"],a[href|="/rvx41"],a[href|="/rdashiepissed"]{width:150px;background-position:-1542px 0}
+a[href|="/vx42"],a[href|="/dashiesmile"],a[href|="/rvx42"],a[href|="/rdashiesmile"]{width:139px;background-position:-1692px 0}
+a[href|="/vx50"],a[href|="/dashiefilly"],a[href|="/rvx50"],a[href|="/rdashiefilly"]{width:90px;background-position:-1831px 0}
+a[href|="/vx51"],a[href|="/dashieyou"],a[href|="/rvx51"],a[href|="/rdashieyou"]{width:149px;background-position:-1922px 0}
+a[href|="/vx52"],a[href|="/dashiehug"],a[href|="/rvx52"],a[href|="/rdashiehug"]{width:120px;background-position:-2073px 0}
+a[href|="/vx60"],a[href|="/dashiegrin"],a[href|="/rvx60"],a[href|="/rdashiegrin"]{width:140px;background-position:-2193px 0}
+a[href|="/vx61"],a[href|="/dashietail"],a[href|="/rvx61"],a[href|="/rdashietail"]{width:116px;background-position:-2335px 0}
+a[href|="/vx62"],a[href|="/dashiepose2"],a[href|="/rvx62"],a[href|="/rdashiepose2"]{width:109px;background-position:-2455px 0}
+a[href|="/fx10"],a[href|="/fluttercheer"],a[href|="/fx11"],a[href|="/fluttercute"],a[href|="/fx12"],a[href|="/fluttermad"]{display:block;clear:none;float:left;height:130px;background-image:url(http://d.thumbs.redditmedia.com/gG8I5Cn8H2rrID9Q.png)}
+a[href|="/rfx10"],a[href|="/rfluttercheer"],a[href|="/rfx11"],a[href|="/rfluttercute"],a[href|="/rfx12"],a[href|="/rfluttermad"]{display:block;clear:none;float:left;height:130px;background-image:url(http://b.thumbs.redditmedia.com/n_j2Dw0dzBsgmhva.png)}
+a[href|="/fx10"],a[href|="/fluttercheer"],a[href|="/rfx10"],a[href|="/rfluttercheer"]{width:101px}
+a[href|="/fx11"],a[href|="/fluttercute"],a[href|="/rfx11"],a[href|="/rfluttercute"]{width:157px;background-position:-101px 0}
+a[href|="/fx12"],a[href|="/fluttermad"],a[href|="/rfx12"],a[href|="/rfluttermad"]{width:139px;background-position:-258px 0}
+
 a[href|="/pitpens"],a[href|="/ottsens"],a[href|="/sjsharks"],a[href|="/njdevils"],a[href|="/anaducks"],a[href|="/anaangels"],a[href|="/detwings"]{background-image:url(http://c.thumbs.redditmedia.com/HdmdQyt9tq7ud0ub.png);clear:none;display:block;float:left;height:90px;width:90px}
 a[href|="/ottsens"]{background-position:-91px 0}
 a[href|="/sjsharks"]{background-position:-182px 0}
