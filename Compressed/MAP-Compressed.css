@@ -1578,6 +1578,11 @@ a:hover[href|="/thumb"]{display:block;clear:none;float:left;width:640px;height:4
 a[href|="/berryparty"],a[href|="/rberryparty"]{background-position:-512px -128px}
 a[href|="/blegh"],a[href|="/rblegh"]{background-position:-512px 0}
 
+a[href|="/flitterwat"]{background-image:url(http://b.thumbs.redditmedia.com/-PbdiqNRSgBEhgl7.png);clear:none;display:block;float:left;height:103px;width:100px}
+a[href|="/stretchthoseglutes"]{background-image:url(http://a.thumbs.redditmedia.com/505Hw9cpF6h3QUu0.png);clear:none;display:block;float:left;height:100px;width:142px}
+a[href|="/flitterunamused"]{background-image:url(http://d.thumbs.redditmedia.com/Myh7HOPSaksYBPL-.png);clear:none;display:block;float:left;height:145px;width:100px}
+a[href|="/flitterjoy"]{background-image:url(http://e.thumbs.redditmedia.com/E8F_tQUJyYlLWARd.png);clear:none;display:block;float:left;height:140px;width:100px}
+a[href|="/fillyflitter"]{background-image:url(http://f.thumbs.redditmedia.com/sf-W7xWNGLqordWS.png);clear:none;display:block;float:left;height:110px;width:100px}
 
 a[href|="/exquisite"],a[href|="/rexquisite"],a[href|="/fancydance"],a:hover[href|="/fancydance"]{background-position:-128px 0}
 a[href|="/lunawant"],a[href|="/rlunawant"]{background-position:0 -128px}
