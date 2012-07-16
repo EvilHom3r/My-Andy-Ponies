@@ -1596,6 +1596,14 @@ a[href|="/cuttersquee"]{display:block;clear:none;float:left;width:100px;height:1
 a[href|="/mope"]{display:block;clear:none;float:left;width:200px;height:301px;background-image:url(http://c.thumbs.redditmedia.com/v-PPRFRutQDRmbsn.png)}
 a[href|="/cuttershyfrown"]{display:block;clear:none;float:left;width:146px;height:139px;background-image:url(http://a.thumbs.redditmedia.com/xTnVkAdyBI-TBwaN.png)}
 
+a[href|="/pitpens"],a[href|="/ottsens"],a[href|="/sjsharks"],a[href|="/njdevils"],a[href|="/anaducks"],a[href|="/anaangels"],a[href|="/detwings"]{background-image:url(http://c.thumbs.redditmedia.com/HdmdQyt9tq7ud0ub.png);clear:none;display:block;float:left;height:90px;width:90px}
+a[href|="/ottsens"]{background-position:-91px 0}
+a[href|="/sjsharks"]{background-position:-182px 0}
+a[href|="/njdevils"]{background-position:0 -91px}
+a[href|="/anaducks"]{background-position:-91px -91px}
+a[href|="/anaangels"]{background-position:-182px -91px}
+a[href|="/detwings"]{background-position:0 -182px}
+
 a[href|="/exquisite"],a[href|="/rexquisite"],a[href|="/fancydance"],a:hover[href|="/fancydance"]{background-position:-128px 0}
 a[href|="/lunawant"],a[href|="/rlunawant"]{background-position:0 -128px}
 a[href|="/whytwi"],a[href|="/rwhytwi"],a[href|="/whytwiwhy"],a:hover[href|="/whytwiwhy"]{background-position:-128px -128px}
