@@ -1,4 +1,4 @@
-﻿/* Version 1.0 (June 16) */
+﻿/* Version 1.0.1 (July 16) */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("www.reddit.com"), domain("reddit.com") {
 @-webkit-keyframes spin{from{-webkit-transform:rotate(0deg)scaleX(1)rotateX(0deg)rotateY(0deg)rotateZ(0deg)} to{-webkit-transform:rotate(0deg)scaleX(1)rotateX(360deg)rotateY(360deg)rotateZ(360deg)}}
