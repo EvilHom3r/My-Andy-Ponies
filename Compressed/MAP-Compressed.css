@@ -2215,25 +2215,25 @@ a[href="//#advicegummy"],a[href="//#philosopie"]{width:300px;height:300px;backgr
 a[href="//#advicepbb"] em,a[href="//#advicecmc"] em,a[href="//#advicedash"] em,a[href="//#advicederp"] em,a[href="//#advicegummy"] em,a[href="//#advicehoers"] em,a[href="//#adviceluna"] em,a[href="//#adviceoct"] em,a[href="//#advicepinkamina"] em,a[href="//#advicescoot"] em,a[href="//#advicescratch"] em,a[href="//#advicescrew"] em,a[href="//#adviceshy"] em,a[href="//#adviceaajlie"] em,a[href="//#adviceberry"] em,a[href="//#advicetia"] em,a[href="//#philosopie"] em,a[href="//#advicepp"] em{font-style:normal !important;position:absolute !important;top:12px !important;width:280px !important;left:50% !important;margin-left:-140px !important}
 a[href="//#advicepbb"] strong,a[href="//#advicecmc"] strong,a[href="//#advicedash"] strong,a[href="//#advicederp"] strong,a[href="//#advicegummy"] strong,a[href="//#advicehoers"] strong,a[href="//#adviceluna"] strong,a[href="//#adviceoct"] strong,a[href="//#advicepinkamina"] strong,a[href="//#advicescoot"] strong,a[href="//#advicescratch"] strong,a[href="//#advicescrew"] strong,a[href="//#adviceshy"] strong,a[href="//#adviceajlie"] strong,a[href="//#adviceberry"] strong,a[href="//#advicetia"] strong,a[href="//#philosopie"] strong,a[href="//#advicepp"] strong{font-weight:400 !important;position:absolute !important;bottom:12px !important;width:280px !important;left:50% !important;margin-left:-140px !important}
 
-a[href|="/white!"]{color:#FFF !important;cursor:text !important;background-color:#000 !important}
-a[href|="/orange!"]{color:orange !important;cursor:text !important}
-a[href|="/green!"]{color:green !important;cursor:text !important}
-a[href|="/greentext!"]{color:#789922 !important;cursor:text !important}
-a[href|="/purple!"]{color:purple !important;cursor:text !important}
-a[href|="/yellow!"]{color:#FFD700 !important;cursor:text !important}
-a[href|="/pink!"]{color:#F0F !important;cursor:text !important}
-a[href|="/blue!"]{color:blue !important;cursor:text !important}
-a[href|="/red!"]{color:red !important;cursor:text !important}
-a[href|="/big!"]{color:red !important;font-size:50px !important;font-weight:700;cursor:text !important}
-a[href|="/txt!"]{color:inherit !important;cursor:text !important}
-a[href|="/zecora!"]{color:#fff !important;cursor:text !important;background-color:#696978 !important}
-a[href|="/applejack!"]{color:#e56522 !important;cursor:text !important;background-color:#ffc97b !important}
-a[href|="/pinkie!"]{color:#c10064 !important;cursor:text !important;background-color:#f8c0ce !important}
-a[href|="/rainbow!"]{color:#971757 !important;cursor:text !important;background-color:#97d6f9 !important}
-a[href|="/rarity!"]{color:#eef1f3 !important;cursor:text !important;background-color:#49176d !important}
-a[href|="/twilight!"]{color:#363b74 !important;cursor:text !important;background-color:#caaad1 !important}
-a[href|="/fluttershy!"]{color:#e57eb3 !important;cursor:text !important;background-color:#fff797 !important}
-a[href|="/luna!"]{font-size:18px;font-variant:small-caps !important;cursor:text !important;color:#72b4ff !important;background-color:#18113b !important}
+a[href|="/white!"]:nth-of-type(n){color:#FFF !important;cursor:text !important;background-color:#000 !important}
+a[href|="/orange!"]:nth-of-type(n){color:orange !important;cursor:text !important}
+a[href|="/green!"]:nth-of-type(n){color:green !important;cursor:text !important}
+a[href|="/greentext!"]:nth-of-type(n){color:#789922 !important;cursor:text !important}
+a[href|="/purple!"]:nth-of-type(n){color:purple !important;cursor:text !important}
+a[href|="/yellow!"]:nth-of-type(n){color:#FFD700 !important;cursor:text !important}
+a[href|="/pink!"]:nth-of-type(n){color:#F0F !important;cursor:text !important}
+a[href|="/blue!"]:nth-of-type(n){color:blue !important;cursor:text !important}
+a[href|="/red!"]:nth-of-type(n){color:red !important;cursor:text !important}
+a[href|="/big!"]:nth-of-type(n){color:red !important;font-size:50px !important;font-weight:700;cursor:text !important}
+a[href|="/txt!"]:nth-of-type(n){color:inherit !important;cursor:text !important}
+a[href|="/zecora!"]:nth-of-type(n){color:#fff !important;cursor:text !important;background-color:#696978 !important}
+a[href|="/applejack!"]:nth-of-type(n){color:#e56522 !important;cursor:text !important;background-color:#ffc97b !important}
+a[href|="/pinkie!"]:nth-of-type(n){color:#c10064 !important;cursor:text !important;background-color:#f8c0ce !important}
+a[href|="/rainbow!"]:nth-of-type(n){color:#971757 !important;cursor:text !important;background-color:#97d6f9 !important}
+a[href|="/rarity!"]:nth-of-type(n){color:#eef1f3 !important;cursor:text !important;background-color:#49176d !important}
+a[href|="/twilight!"]:nth-of-type(n){color:#363b74 !important;cursor:text !important;background-color:#caaad1 !important}
+a[href|="/fluttershy!"]:nth-of-type(n){color:#e57eb3 !important;cursor:text !important;background-color:#fff797 !important}
+a[href|="/luna!"]:nth-of-type(n){font-size:18px;font-variant:small-caps !important;cursor:text !important;color:#72b4ff !important;background-color:#18113b !important}
 a[href|="/surprise!"]{color:#cdcd00 !important;cursor:text !important;background-color:#ffffe7 !important}
 a[href^="/"][href*="-blink!"]{text-decoration:blink !important}
 a[href^="/"][href*="-comicsans!"]{font-family:"Comic-Sans MS", cursive}
